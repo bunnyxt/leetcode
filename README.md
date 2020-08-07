@@ -25,5 +25,5 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [Union Find](UnionFind/README.md) | 3 | 0 |
 | [Trie](Trie/README.md) | 3 | 0 |
 | [Design](Tree/README.md) | 17 | 0 |
-| 总计 | 378 | 0 |
+| 总计 | 378 | 1 |
 
