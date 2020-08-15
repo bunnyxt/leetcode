@@ -12,3 +12,4 @@
 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [80.md](80.md) | Medium | |
 | [277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | - | Medium | 🔒 |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | [189.md](189.md) | Easy | 🐲 |
+| [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [41.md](41.md) | Hard | |
