@@ -16,3 +16,4 @@
 | [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [299.md](299.md) | Easy | 🐲 |
 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | [134.md](134.md) | Medium | |
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [118.md](118.md) | Easy | 🐲 |
+| [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [119.md](119.md) | Easy | 🐲 |
