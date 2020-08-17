@@ -10,12 +10,12 @@
 | ---- | ---- | ---- | ---- |
 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | [27.md](27.md) |  Easy | |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [26.md](26.md) | Easy | |
-| [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [80.md](80.md) | Medium | |
+| [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [80.md](80.md) | Medium | 💡 |
 | [277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | - | Medium | 🔒 |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | [189.md](189.md) | Easy | 🐲 |
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [41.md](41.md) | Hard | |
 | [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [299.md](299.md) | Easy | 🐲 |
-| [134. Gas Station](https://leetcode.com/problems/gas-station/) | [134.md](134.md) | Medium | |
+| [134. Gas Station](https://leetcode.com/problems/gas-station/) | [134.md](134.md) | Medium | 💡 |
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [118.md](118.md) | Easy | 🐲 |
 | [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [119.md](119.md) | Easy | 🐲 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [169.md](169.md) | Easy | 💡 |
