@@ -4,6 +4,7 @@
 | ---- | ---- |
 | 🔒 | 必须订阅LeetCode才能解锁的题目 |
 | 🐲 | 使用到python特有的语法特性的题目 |
+| 💡 | 有重要收获与启发的题 |
 
 | 题目 | 题解 | 难度 | 备注 |
 | ---- | ---- | ---- | ---- |
@@ -17,3 +18,4 @@
 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | [134.md](134.md) | Medium | |
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [118.md](118.md) | Easy | 🐲 |
 | [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [119.md](119.md) | Easy | 🐲 |
+| [169. Majority Element](https://leetcode.com/problems/majority-element/) | [169.md](169.md) | Easy | 💡 |
