@@ -22,3 +22,4 @@
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [169.md](169.md) | Easy | 💡📡 |
 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [229.md](229.md) | Medium | 📡 |
 | [274. H-Index](https://leetcode.com/problems/h-index/) | [274.md](274.md) | Medium | |
+| [275. H-Index II](https://leetcode.com/problems/h-index-ii/) | [275.md](275.md) | Medium | |
