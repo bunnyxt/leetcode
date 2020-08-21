@@ -23,3 +23,7 @@
 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [229.md](229.md) | Medium | 📡 |
 | [274. H-Index](https://leetcode.com/problems/h-index/) | [274.md](274.md) | Medium | |
 | [275. H-Index II](https://leetcode.com/problems/h-index-ii/) | [275.md](275.md) | Medium | |
+| [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | - | Easy | 🔒 |
+| [244. Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/) | - | Medium | 🔒 |
+| [245. Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/) | - | Medium | 🔒 |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [217.md](217.md) | Medium | |
