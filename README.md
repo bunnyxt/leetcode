@@ -8,7 +8,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 
 | 分类 | 题量 | 已完成 |
 | ---- | ---- | ---- |
-| [Array](Array/README.md) | 73 | 14 |
+| [Array](Array/README.md) | 73 | 15 |
 | [String](String/README.md) | 58 | 0 |
 | [Math](Math/README.md) | 40 | 0 |
 | [Tree](Tree/README.md) | 47 | 0 |
@@ -25,5 +25,5 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [Union Find](UnionFind/README.md) | 3 | 0 |
 | [Trie](Trie/README.md) | 3 | 0 |
 | [Design](Tree/README.md) | 17 | 0 |
-| 总计 | 378 | 14 |
+| 总计 | 378 | 15 |
 

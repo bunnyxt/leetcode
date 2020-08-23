@@ -27,3 +27,4 @@
 | [244. Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/) | - | Medium | 🔒 |
 | [245. Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/) | - | Medium | 🔒 |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [217.md](217.md) | Medium | |
+| [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [219.md](219.md) | Easy | |
