@@ -29,3 +29,4 @@
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [217.md](217.md) | Medium | |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [219.md](219.md) | Easy | |
 | [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [220.md](220.md) | Medium | |
+| [55. Jump Game](https://leetcode.com/problems/jump-game/) | [55.md](55.md) | Medium | 💡 |
