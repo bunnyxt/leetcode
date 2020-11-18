@@ -40,4 +40,5 @@
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [42.md](../solutions/42.md) | Hard | |
 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [334.md](../solutions/334.md) | Medium | |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [128.md](../solutions/128.md) | Hard | |
+| [164. Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [164.md](../solutions/164.md) | Hard | 💡📡 |
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [300.md](../solutions/300.md) | Medium | 💡📡 |
