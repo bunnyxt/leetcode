@@ -43,4 +43,5 @@
 | [164. Maximum Gap](https://leetcode.com/problems/maximum-gap/) | [164.md](../solutions/164.md) | Hard | 💡📡 |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [287.md](../solutions/287.md) | Medium | 📡 |
 | [135. Candy](https://leetcode.com/problems/candy/) | [135.md](../solutions/135.md) | Hard | |
+| [330. Patching Array](https://leetcode.com/problems/patching-array/) | [330.md](../solutions/330.md) | Hard | |
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [300.md](../solutions/300.md) | Medium | 💡📡 |
