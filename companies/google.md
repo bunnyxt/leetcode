@@ -1,6 +1,6 @@
 # Google
 
-- 4
+- [4](../solutions/4.md)
 - 10
 - 17
 - 20
