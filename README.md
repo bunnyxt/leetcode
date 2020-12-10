@@ -36,12 +36,12 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [Google](companies/google.md) | 183 | 7 |
 | [Facebook](companies/facebook.md) | 95 | 9 |
 | [Linkedin](companies/linkedin.md) | 42 | 4 |
-| [Microsoft](companies/microsoft.md) | 85 | 7 |
-| [Amazon](companies/amazon.md) | 64 | 3 |
+| [Microsoft](companies/microsoft.md) | 85 | 8 |
+| [Amazon](companies/amazon.md) | 64 | 4 |
 | [Uber](companies/uber.md) | 49 | 1 |
 | [Yelp](companies/yelp.md) | 16 | 1 |
 | [Apple](companies/apple.md) | 29 | 4 |
-| [Bloomberg](companies/bloomberg.md) | 62 | 8 |
+| [Bloomberg](companies/bloomberg.md) | 62 | 9 |
 | [Yahoo](companies/yahoo.md) | 13 | 2 |
 | [Airbnb](companies/airbnb.md) | 23 | 3 |
 | [Snapchat](companies/snapchat.md) | 25 | 0 |
