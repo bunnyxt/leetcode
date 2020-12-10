@@ -11,3 +11,4 @@
 | ---- | ---- | ---- | ---- |
 | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [28.md](../solutions/28.md) | Easy | 📡 |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [14.md](../solutions/14.md) | Easy | |
+| [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [58.md](../solutions/58.md) | Easy | |
