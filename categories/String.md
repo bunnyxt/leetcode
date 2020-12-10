@@ -10,3 +10,4 @@
 | 题目 | 题解 | 难度 | 备注 |
 | ---- | ---- | ---- | ---- |
 | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [28.md](../solutions/28.md) | Easy | 📡 |
+| [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [14.md](../solutions/14.md) | Easy | |
