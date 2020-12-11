@@ -17,3 +17,4 @@
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | [344.md](../solutions/344.md) | Easy | |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [151.md](../solutions/151.md) | Medium | |
 | [186. Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | - | Medium | 🔒 |
+| [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string//) | [345.md](../solutions/345.md) | Easy | |

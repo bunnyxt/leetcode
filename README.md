@@ -9,7 +9,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | 分类 | 题量 | 已完成 |
 | ---- | ---- | ---- |
 | [Array](categories/Array.md) | 73 | 34 |
-| [String](categories/String.md) | 58 | 6 |
+| [String](categories/String.md) | 58 | 7 |
 | [Math](categories/Math.md) | 40 | 0 |
 | [Tree](categories/Tree.md) | 47 | 0 |
 | [Backtracking](categories/Backtracking.md) | 19 | 0 |
@@ -25,7 +25,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [Union Find](categories/UnionFind.md) | 3 | 0 |
 | [Trie](categories/Trie.md) | 3 | 0 |
 | [Design](categories/Design.md) | 17 | 0 |
-| 总计 | 378 | 40 |
+| 总计 | 378 | 41 |
 
 # 公司面试题库
 
@@ -33,7 +33,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 
 | 公司 | 题量 | 已完成 |
 | ---- | ---- | ---- |
-| [Google](companies/google.md) | 183 | 7 |
+| [Google](companies/google.md) | 183 | 8 |
 | [Facebook](companies/facebook.md) | 95 | 9 |
 | [Linkedin](companies/linkedin.md) | 42 | 4 |
 | [Microsoft](companies/microsoft.md) | 85 | 9 |
