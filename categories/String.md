@@ -15,3 +15,4 @@
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [387.md](../solutions/387.md) | Easy | |
 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | [383.md](../solutions/383.md) | Easy | 🐲 |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | [344.md](../solutions/344.md) | Easy | |
+| [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [151.md](../solutions/151.md) | Medium | |
