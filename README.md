@@ -24,7 +24,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [Graph](categories/Graph.md) | 8 | 0 |
 | [Union Find](categories/UnionFind.md) | 3 | 0 |
 | [Trie](categories/Trie.md) | 3 | 0 |
-| [Design](categories/Tree.md) | 17 | 0 |
+| [Design](categories/Design.md) | 17 | 0 |
 | 总计 | 378 | 40 |
 
 # 公司面试题库
