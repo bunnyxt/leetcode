@@ -19,3 +19,5 @@
 | [186. Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | - | Medium | 🔒 |
 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [345.md](../solutions/345.md) | Easy | |
 | [205. Isomorphic Strings](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [205.md](../solutions/205.md) | Easy | |
+| [293. Flip Game](https://leetcode.com/problems/flip-game/) | - | Easy | 🔒 |
+| [294. Flip Game II](https://leetcode.com/problems/flip-game-ii/) | - | Medium | 🔒 |
