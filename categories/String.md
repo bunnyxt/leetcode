@@ -21,3 +21,4 @@
 | [205. Isomorphic Strings](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [205.md](../solutions/205.md) | Easy | |
 | [293. Flip Game](https://leetcode.com/problems/flip-game/) | - | Easy | 🔒 |
 | [294. Flip Game II](https://leetcode.com/problems/flip-game-ii/) | - | Medium | 🔒 |
+| [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | [290.md](../solutions/290.md) | Easy | |
