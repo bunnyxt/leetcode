@@ -22,3 +22,4 @@
 | [293. Flip Game](https://leetcode.com/problems/flip-game/) | - | Easy | 🔒 |
 | [294. Flip Game II](https://leetcode.com/problems/flip-game-ii/) | - | Medium | 🔒 |
 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | [290.md](../solutions/290.md) | Easy | |
+| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [242.md](../solutions/242.md) | Easy | 🐲 |
