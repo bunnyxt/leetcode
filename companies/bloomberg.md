@@ -15,7 +15,7 @@
 - [26](../solutions/26.md)
 - 33
 - [42](../solutions/42.md)
-- 49
+- [49](../solutions/49.md)
 - 50
 - 53
 - 56
