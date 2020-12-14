@@ -25,3 +25,4 @@
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [242.md](../solutions/242.md) | Easy | 🐲 |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [49.md](../solutions/49.md) | Medium | |
 | [249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/) | - | Medium | 🔒 |
+| [87. Scramble String](https://leetcode.com/problems/scramble-string) | [87.md](../solutions/87.md) | Hard | |
