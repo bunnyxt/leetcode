@@ -28,4 +28,4 @@
 | [87. Scramble String](https://leetcode.com/problems/scramble-string) | [87.md](../solutions/87.md) | Hard | |
 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | [179.md](../solutions/179.md) | Medium | |
 | [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [6.md](../solutions/6.md) | Medium | |
-
+| [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | - | Medium | |
