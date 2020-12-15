@@ -26,3 +26,4 @@
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [49.md](../solutions/49.md) | Medium | |
 | [249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/) | - | Medium | 🔒 |
 | [87. Scramble String](https://leetcode.com/problems/scramble-string) | [87.md](../solutions/87.md) | Hard | |
+| [179. Largest Number](https://leetcode.com/problems/largest-number/) | [179.md](../solutions/179.md) | Medium | |
