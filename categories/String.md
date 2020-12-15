@@ -29,3 +29,4 @@
 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | [179.md](../solutions/179.md) | Medium | |
 | [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [6.md](../solutions/6.md) | Medium | |
 | [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | - | Medium | |
+| [38. Count and Say](https://leetcode.com/problems/count-and-say/) | [38.md](../solutions/38.md) | Easy | |
