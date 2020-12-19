@@ -28,6 +28,7 @@
 | [87. Scramble String](https://leetcode.com/problems/scramble-string) | [87.md](../solutions/87.md) | Hard | |
 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | [179.md](../solutions/179.md) | Medium | |
 | [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [6.md](../solutions/6.md) | Medium | |
-| [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | - | Medium | |
+| [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | - | Medium | 🔒 |
 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | [38.md](../solutions/38.md) | Easy | |
 | [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | - | Hard | 🔒 |
+| [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [316.md](../solutions/316.md) | Medium | |
