@@ -32,3 +32,4 @@
 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | [38.md](../solutions/38.md) | Easy | |
 | [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | - | Hard | 🔒 |
 | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [316.md](../solutions/316.md) | Medium | |
+| [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | - | Medium | 🔒 |
