@@ -35,3 +35,4 @@
 | [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | - | Medium | 🔒 |
 | [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [168.md](../solutions/168.md) | Easy | |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [171.md](../solutions/171.md) | Easy | |
+| [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [13.md](../solutions/13.md) | Easy | |
