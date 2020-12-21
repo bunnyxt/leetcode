@@ -33,4 +33,5 @@
 | [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | - | Hard | 🔒 |
 | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [316.md](../solutions/316.md) | Medium | |
 | [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | - | Medium | 🔒 |
-| [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [168.md](../solutions/168.md) | Medium | |
+| [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [168.md](../solutions/168.md) | Easy | |
+| [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [171.md](../solutions/171.md) | Easy | |
