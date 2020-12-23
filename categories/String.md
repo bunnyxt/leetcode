@@ -44,3 +44,4 @@
 | [157. Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | - | Easy | 🔒 |
 | [158. Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) | - | Hard | 🔒 |
 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | [68.md](../solutions/68.md) | Hard | |
+| [65. Valid Number](https://leetcode.com/problems/valid-number/) | [65.md](../solutions/65.md) | Hard | |
