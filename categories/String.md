@@ -41,3 +41,5 @@
 | [246. Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | - | Easy | 🔒 |
 | [247. Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) | - | Medium | 🔒 |
 | [246. Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/) | - | Hard | 🔒 |
+| [157. Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | - | Easy | 🔒 |
+| [158. Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) | - | Hard | 🔒 |
