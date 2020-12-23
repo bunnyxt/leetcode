@@ -65,7 +65,7 @@
 - 261
 - 265
 - 269
-- 273
+- [273](../solutions/273.md)
 - [274](../solutions/274.md)
 - [275](../solutions/275.md)
 - [277](../solutions/277.md)
