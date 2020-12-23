@@ -43,3 +43,4 @@
 | [246. Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/) | - | Hard | 🔒 |
 | [157. Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | - | Easy | 🔒 |
 | [158. Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) | - | Hard | 🔒 |
+| [68. Text Justification](https://leetcode.com/problems/text-justification/) | [68.md](../solutions/68.md) | Hard | |
