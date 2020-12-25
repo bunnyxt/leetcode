@@ -46,3 +46,4 @@
 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | [68.md](../solutions/68.md) | Hard | |
 | [65. Valid Number](https://leetcode.com/problems/valid-number/) | [65.md](../solutions/65.md) | Hard | |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [76.md](../solutions/76.md) | Hard | |
+| [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [30.md](../solutions/30.md) | Hard | |
