@@ -1,7 +1,7 @@
 # Yelp
 
 - 1
-- 3
+- [3](../solutions/3.md)
 - [14](../solutions/14.md)
 - [49](../solutions/49.md)
 - 56
