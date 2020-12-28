@@ -48,3 +48,4 @@
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [76.md](../solutions/76.md) | Hard | |
 | [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [30.md](../solutions/30.md) | Hard | |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [3.md](../solutions/3.md) | Medium | |
+| [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | - | Medium | 🔒 |
