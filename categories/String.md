@@ -54,4 +54,5 @@
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [125.md](../solutions/125.md) | Easy | |
 | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | - | Easy | 🔒 |
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [5.md](../solutions/5.md) | Medium | |
+| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [9.md](../solutions/9.md) | Easy | |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [125.md](../solutions/125.md) | Medium | |
