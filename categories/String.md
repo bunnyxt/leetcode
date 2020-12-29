@@ -53,4 +53,5 @@
 | [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | - | Medium | 🔒 |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [125.md](../solutions/125.md) | Easy | |
 | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | - | Easy | 🔒 |
+| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [5.md](../solutions/5.md) | Medium | |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [125.md](../solutions/125.md) | Medium | |

@@ -3,7 +3,7 @@
 - 1
 - 2
 - [3](../solutions/3.md)
-- 5
+- [5](../solutions/5.md)
 - 7
 - 8
 - [11](../solutions/11.md)
