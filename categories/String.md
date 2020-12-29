@@ -51,3 +51,4 @@
 | [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | - | Medium | 🔒 |
 | [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [395.md](../solutions/395.md) | Medium | |
 | [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | - | Medium | 🔒 |
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [125.md](../solutions/125.md) | Easy | |
