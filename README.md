@@ -49,7 +49,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [Indeed](companies/indeed.md) | 2 | 0 |
 | [Mathworks](companies/mathworks.md) | 0 | 0 |
 | [Alibaba](companies/alibaba.md) | 2 | 0 |
-| [Baidu](companies/baidu.md) | 8 | 0 |
+| [Baidu](companies/baidu.md) | 8 | 1 |
 | [Zappos](companies/zappos.md) | 1 | 0 |
 | [eBay](companies/ebay.md) | 2 | 0 |
 
