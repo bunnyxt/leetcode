@@ -5,7 +5,7 @@
 - [13](../solutions/13.md)
 - 15
 - 17
-- 20
+- [20](../solutions/20.md)
 - 23
 - 25
 - [26](../solutions/26.md)

@@ -3,7 +3,7 @@
 - [4](../solutions/4.md)
 - 10
 - 17
-- 20
+- [20](../solutions/20.md)
 - [22](../solutions/22.md)
 - 23
 - 31

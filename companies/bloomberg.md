@@ -10,7 +10,7 @@
 - [13](../solutions/13.md)
 - 15
 - 16
-- 20
+- [20](../solutions/20.md)
 - 24
 - [26](../solutions/26.md)
 - 33
