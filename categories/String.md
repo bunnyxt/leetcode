@@ -58,3 +58,4 @@
 | [267. Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | - | Medium | 🔒 |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [20.md](../solutions/20.md) | Easy | |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [22.md](../solutions/22.md) | Medium | |
+| [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [32.md](../solutions/32.md) | Hard | 💡 |
