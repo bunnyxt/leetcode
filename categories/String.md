@@ -60,3 +60,4 @@
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [22.md](../solutions/22.md) | Medium | |
 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [32.md](../solutions/32.md) | Hard | 💡 |
 | [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [241.md](../solutions/241.md) | Medium | |
+| [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [301.md](../solutions/301.md) | Hard | 💡 |
