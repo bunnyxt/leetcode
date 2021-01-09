@@ -62,3 +62,4 @@
 | [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [241.md](../solutions/241.md) | Medium | |
 | [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [301.md](../solutions/301.md) | Hard | 💡 |
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [392.md](../solutions/392.md) | Easy | |
+| [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [115.md](../solutions/115.md) | Hard | |
