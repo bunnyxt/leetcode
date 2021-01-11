@@ -63,3 +63,4 @@
 | [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [301.md](../solutions/301.md) | Hard | 💡 |
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [392.md](../solutions/392.md) | Easy | |
 | [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [115.md](../solutions/115.md) | Hard | |
+| [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [187.md](../solutions/187.md) | Medium | |
