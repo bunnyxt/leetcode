@@ -33,7 +33,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 
 | 公司 | 题量 | 已完成 |
 | ---- | ---- | ---- |
-| [Google](companies/google.md) | 183 | 11 |
+| [Google](companies/google.md) | 183 | 12 |
 | [Facebook](companies/facebook.md) | 95 | 19 |
 | [Linkedin](companies/linkedin.md) | 42 | 8 |
 | [Microsoft](companies/microsoft.md) | 85 | 17 |
