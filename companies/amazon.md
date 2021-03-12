@@ -4,7 +4,7 @@
 - 2
 - [3](../solutions/3.md)
 - [5](../solutions/5.md)
-- 8
+- [8](../solutions/8.md)
 - 15
 - [20](../solutions/20.md)
 - 21

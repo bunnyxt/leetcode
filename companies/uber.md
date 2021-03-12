@@ -1,7 +1,7 @@
 # Uber
 
 - 1
-- 8
+- [8](../solutions/8.md)
 - 10
 - [13](../solutions/13.md)
 - 17
