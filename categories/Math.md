@@ -12,4 +12,5 @@
 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [7.md](../solutions/7.md) | Easy | |
 | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [165.md](../solutions/165.md) | Medium | |
 | [66. Plus One](https://leetcode.com/problems/plus-one/) | [165.md](../solutions/66.md) | Easy | |
-| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [8.md](../solutions/8.md) | Medium | |
+| [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [8.md](../solutions/8.md) | Medium | |
+| [258. Add Digits](https://leetcode.com/problems/add-digits/) | [258.md](../solutions/258.md) | Easy | |
