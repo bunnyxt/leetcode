@@ -12,7 +12,7 @@
 - [28](../solutions/28.md)
 - 33
 - [38](../solutions/38.md)
-- 43
+- [43](../solutions/43.md)
 - 44
 - [49](../solutions/49.md)
 - 50
