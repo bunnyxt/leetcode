@@ -126,3 +126,4 @@ dmypy.json
 
 template.md
 .DS_Store
+.vscode/
