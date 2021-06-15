@@ -4,7 +4,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 
 # 分类顺序表
 
-刷题顺序与题目分类参考[此分类顺序表](https://cspiration.com/leetcodeClassification)，包含以下几个部分：
+刷题顺序与题目分类参考[此分类顺序表](https://www.cspiration-cn.com/#/leetcodeClassification)，包含以下几个部分：
 
 | 分类 | 题量 | 已完成 |
 | ---- | ---- | ---- |
