@@ -33,18 +33,18 @@ bunnyxt的LeetCode题解，使用Python3编码
 
 | 公司 | 题量 | 已完成 |
 | ---- | ---- | ---- |
-| [Google](companies/google.md) | 183 | 12 |
+| [Google](companies/google.md) | 183 | 13 |
 | [Facebook](companies/facebook.md) | 95 | 21 |
 | [Linkedin](companies/linkedin.md) | 42 | 8 |
 | [Microsoft](companies/microsoft.md) | 85 | 19 |
-| [Amazon](companies/amazon.md) | 64 | 10 |
-| [Uber](companies/uber.md) | 49 | 10 |
+| [Amazon](companies/amazon.md) | 64 | 11 |
+| [Uber](companies/uber.md) | 49 | 11 |
 | [Yelp](companies/yelp.md) | 16 | 5 |
 | [Apple](companies/apple.md) | 29 | 7 |
-| [Bloomberg](companies/bloomberg.md) | 62 | 16 |
+| [Bloomberg](companies/bloomberg.md) | 62 | 17 |
 | [Yahoo](companies/yahoo.md) | 13 | 3 |
 | [Airbnb](companies/airbnb.md) | 23 | 5 |
-| [Snapchat](companies/snapchat.md) | 25 | 2 |
+| [Snapchat](companies/snapchat.md) | 25 | 3 |
 | [Two Sigma](companies/twosigma.md) | 5 | 0 |
 | [Indeed](companies/indeed.md) | 2 | 0 |
 | [Mathworks](companies/mathworks.md) | 0 | 0 |
