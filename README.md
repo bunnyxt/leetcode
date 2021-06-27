@@ -18,7 +18,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [Binary Search](categories/BinarySearch.md) | 14 | 0 |
 | [DFS & BFS](categories/DFS&BFS.md) | 9 | 0 |
 | [Stack & PriorityQueue](categories/Stack&PriorityQueue.md) | 18 | 1 |
-| [Bit Manipulation](categories/BitManipulation.md) | 13 | 0 |
+| [Bit Manipulation](categories/BitManipulation.md) | 13 | 1 |
 | [Topological Sort](categories/TopologicalSort.md) | 3 | 0 |
 | [Random](categories/Random.md) | 6 | 0 |
 | [Graph](categories/Graph.md) | 8 | 0 |
@@ -43,7 +43,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [Apple](companies/apple.md) | 29 | 7 |
 | [Bloomberg](companies/bloomberg.md) | 62 | 17 |
 | [Yahoo](companies/yahoo.md) | 13 | 3 |
-| [Airbnb](companies/airbnb.md) | 23 | 5 |
+| [Airbnb](companies/airbnb.md) | 23 | 6 |
 | [Snapchat](companies/snapchat.md) | 25 | 3 |
 | [Two Sigma](companies/twosigma.md) | 5 | 0 |
 | [Indeed](companies/indeed.md) | 2 | 0 |
