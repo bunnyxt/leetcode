@@ -17,7 +17,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [LinkedList](categories/LinkedList.md) | 23 | 0 |
 | [Binary Search](categories/BinarySearch.md) | 14 | 0 |
 | [DFS & BFS](categories/DFS&BFS.md) | 9 | 0 |
-| [Stack & PriorityQueue](categories/Stack&PriorityQueue.md) | 18 | 0 |
+| [Stack & PriorityQueue](categories/Stack&PriorityQueue.md) | 18 | 1 |
 | [Bit Manipulation](categories/BitManipulation.md) | 13 | 0 |
 | [Topological Sort](categories/TopologicalSort.md) | 3 | 0 |
 | [Random](categories/Random.md) | 6 | 0 |
