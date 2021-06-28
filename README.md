@@ -36,7 +36,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [Google](companies/google.md) | 183 | 13 |
 | [Facebook](companies/facebook.md) | 95 | 21 |
 | [Linkedin](companies/linkedin.md) | 42 | 8 |
-| [Microsoft](companies/microsoft.md) | 85 | 19 |
+| [Microsoft](companies/microsoft.md) | 85 | 20 |
 | [Amazon](companies/amazon.md) | 64 | 11 |
 | [Uber](companies/uber.md) | 49 | 11 |
 | [Yelp](companies/yelp.md) | 16 | 5 |

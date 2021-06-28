@@ -10,4 +10,5 @@
 | 题目 | 题解 | 难度 | 备注 |
 | ---- | ---- | ---- | ---- |
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [144.md](../solutions/144.md) | Easy | |
+| [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [94.md](../solutions/94.md) | Easy | |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [111.md](../solutions/111.md) | Easy | |
