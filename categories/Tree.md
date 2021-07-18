@@ -14,3 +14,4 @@
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [145.md](../solutions/145.md) | Easy | |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [111.md](../solutions/111.md) | Easy | |
 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | [100.md](../solutions/100.md) | Easy | 📡 |
+| [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [101.md](../solutions/101.md) | Easy | |
