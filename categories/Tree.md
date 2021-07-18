@@ -15,3 +15,4 @@
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [111.md](../solutions/111.md) | Easy | |
 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | [100.md](../solutions/100.md) | Easy | 📡 |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [101.md](../solutions/101.md) | Easy | |
+| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [226.md](../solutions/226.md) | Easy | |
