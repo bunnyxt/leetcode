@@ -3,7 +3,7 @@
 - 1
 - [4](../solutions/4.md)
 - [13](../solutions/13.md)
-- 104
+- [104](../solutions/104.md)
 - 139
 - 141
 - 146

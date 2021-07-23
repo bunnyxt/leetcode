@@ -16,7 +16,7 @@
 - [68](../solutions/68.md)
 - [76](../solutions/76.md)
 - [101](../solutions/101.md)
-- 104
+- [104](../solutions/104.md)
 - 127
 - 149
 - 150
