@@ -11,7 +11,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [Array](categories/Array.md) | 73 | 34 |
 | [String](categories/String.md) | 59 | 37 |
 | [Math](categories/Math.md) | 40 | 7 |
-| [Tree](categories/Tree.md) | 47 | 13 |
+| [Tree](categories/Tree.md) | 47 | 14 |
 | [Backtracking](categories/Backtracking.md) | 19 | 0 |
 | [Dynamic Programming](categories/DynamicProgramming.md) | 24 | 0 |
 | [LinkedList](categories/LinkedList.md) | 23 | 0 |
@@ -25,7 +25,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [Union Find](categories/UnionFind.md) | 3 | 0 |
 | [Trie](categories/Trie.md) | 3 | 0 |
 | [Design](categories/Design.md) | 17 | 0 |
-| 总计 | 379 | 93 |
+| 总计 | 379 | 94 |
 
 # 公司面试题库
 
@@ -41,7 +41,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [Uber](companies/uber.md) | 49 | 12 |
 | [Yelp](companies/yelp.md) | 16 | 5 |
 | [Apple](companies/apple.md) | 29 | 9 |
-| [Bloomberg](companies/bloomberg.md) | 62 | 20 |
+| [Bloomberg](companies/bloomberg.md) | 62 | 21 |
 | [Yahoo](companies/yahoo.md) | 13 | 4 |
 | [Airbnb](companies/airbnb.md) | 23 | 6 |
 | [Snapchat](companies/snapchat.md) | 25 | 3 |
