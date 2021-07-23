@@ -18,3 +18,4 @@
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [226.md](../solutions/226.md) | Easy | |
 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [257.md](../solutions/257.md) | Easy | |
 | [112. Path Sum](https://leetcode.com/problems/path-sum/) | [112.md](../solutions/112.md) | Easy | |
+| [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [113.md](../solutions/113.md) | Medium | |
