@@ -20,3 +20,4 @@
 | [112. Path Sum](https://leetcode.com/problems/path-sum/) | [112.md](../solutions/112.md) | Easy | |
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [113.md](../solutions/113.md) | Medium | |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [129.md](../solutions/129.md) | Medium | |
+| [298. Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) | - | Medium | 🔒 |
