@@ -24,3 +24,4 @@
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [111.md](../solutions/111.md) | Easy | |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [104.md](../solutions/104.md) | Easy | |
 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [110.md](../solutions/110.md) | Easy | |
+| [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [124.md](../solutions/124.md) | Hard | |
