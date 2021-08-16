@@ -4,6 +4,8 @@ bunnyxt的LeetCode题解，使用Python3编码
 
 # 分类顺序表
 
+> 注意：自2021年8月起，由于下述网站暂时无法访问，此部分表格，以及`categories`目录下的内容，暂停更新
+
 刷题顺序与题目分类参考[此分类顺序表](https://www.cspiration-cn.com/#/leetcodeClassification)，包含以下几个部分：
 
 | 分类 | 题量 | 已完成 |
@@ -36,8 +38,8 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [Google](companies/google.md) | 183 | 14 |
 | [Facebook](companies/facebook.md) | 95 | 22 |
 | [Linkedin](companies/linkedin.md) | 42 | 10 |
-| [Microsoft](companies/microsoft.md) | 85 | 23 |
-| [Amazon](companies/amazon.md) | 64 | 11 |
+| [Microsoft](companies/microsoft.md) | 85 | 24 |
+| [Amazon](companies/amazon.md) | 64 | 12 |
 | [Uber](companies/uber.md) | 49 | 13 |
 | [Yelp](companies/yelp.md) | 16 | 5 |
 | [Apple](companies/apple.md) | 29 | 9 |
