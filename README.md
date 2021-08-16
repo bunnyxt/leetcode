@@ -2,58 +2,18 @@
 
 bunnyxt的LeetCode题解，使用Python3编码
 
-# 分类顺序表
+# 一些资料
+## 高频题分类顺序表
 
-> 注意：自2021年8月起，由于下述网站暂时无法访问，此部分表格，以及`categories`目录下的内容，暂停更新
+出处：[Leetcode-retag](https://github.com/resumejob/Leetcode-retag/blob/4a5587e994c326963dda445ac55cca2fb9dc597e/README.md)，推荐按照这里的分类与顺序依次练习。
 
-刷题顺序与题目分类参考[此分类顺序表](https://www.cspiration-cn.com/#/leetcodeClassification)，包含以下几个部分：
+备份：[Leetcode-retag.md](reference/Leetcode-retag.md)
 
-| 分类 | 题量 | 已完成 |
-| ---- | ---- | ---- |
-| [Array](categories/Array.md) | 73 | 34 |
-| [String](categories/String.md) | 59 | 37 |
-| [Math](categories/Math.md) | 40 | 7 |
-| [Tree](categories/Tree.md) | 47 | 16 |
-| [Backtracking](categories/Backtracking.md) | 19 | 0 |
-| [Dynamic Programming](categories/DynamicProgramming.md) | 24 | 0 |
-| [LinkedList](categories/LinkedList.md) | 23 | 0 |
-| [Binary Search](categories/BinarySearch.md) | 14 | 0 |
-| [DFS & BFS](categories/DFS&BFS.md) | 9 | 0 |
-| [Stack & PriorityQueue](categories/Stack&PriorityQueue.md) | 18 | 1 |
-| [Bit Manipulation](categories/BitManipulation.md) | 13 | 1 |
-| [Topological Sort](categories/TopologicalSort.md) | 3 | 0 |
-| [Random](categories/Random.md) | 6 | 0 |
-| [Graph](categories/Graph.md) | 8 | 0 |
-| [Union Find](categories/UnionFind.md) | 3 | 0 |
-| [Trie](categories/Trie.md) | 3 | 0 |
-| [Design](categories/Design.md) | 17 | 0 |
-| 总计 | 379 | 96 |
+## 完整题库
 
-# 公司面试题库
+出处：[完整 LeetCode 题库分享，含频次，标签，面试公司等信息](https://www.1point3acres.com/bbs/thread-774337-1-1.html)，面试之前可以根据公司筛选，有针对地刷题。
 
-参考[这里](https://github.com/Blankj/awesome-java-leetcode/blob/master/Companies.md)列出的不同公司的面试题目进行整理，包含以下公司：
-
-| 公司 | 题量 | 已完成 |
-| ---- | ---- | ---- |
-| [Google](companies/google.md) | 183 | 14 |
-| [Facebook](companies/facebook.md) | 95 | 22 |
-| [Linkedin](companies/linkedin.md) | 42 | 10 |
-| [Microsoft](companies/microsoft.md) | 85 | 24 |
-| [Amazon](companies/amazon.md) | 64 | 12 |
-| [Uber](companies/uber.md) | 49 | 13 |
-| [Yelp](companies/yelp.md) | 16 | 5 |
-| [Apple](companies/apple.md) | 29 | 9 |
-| [Bloomberg](companies/bloomberg.md) | 62 | 21 |
-| [Yahoo](companies/yahoo.md) | 13 | 4 |
-| [Airbnb](companies/airbnb.md) | 23 | 6 |
-| [Snapchat](companies/snapchat.md) | 25 | 3 |
-| [Two Sigma](companies/twosigma.md) | 5 | 0 |
-| [Indeed](companies/indeed.md) | 2 | 0 |
-| [Mathworks](companies/mathworks.md) | 0 | 0 |
-| [Alibaba](companies/alibaba.md) | 2 | 0 |
-| [Baidu](companies/baidu.md) | 8 | 2 |
-| [Zappos](companies/zappos.md) | 1 | 0 |
-| [eBay](companies/ebay.md) | 2 | 0 |
+备份：[LeetCode.xlsx](reference/LeetCode.xlsx)
 
 # 实用技巧
 
@@ -81,6 +41,10 @@ bunnyxt的LeetCode题解，使用Python3编码
 
 本题解库里所有的题解目录，按照题号从小到大排序，并且标记上题目考察的算法等，完整列表如下：
 
-```
-// TODO
-```
+| 题目 | 难度 | 题解 | 分类* | 备注** |
+| --- | --- | --- | --- | --- |
+| x | x | x | x | x |
+
+*：按照`xx-yy-zz`格式标注的分类标准，出自[Leetcode-retag](reference/Leetcode-retag.md)这里；其他的分类则是自己的补充
+
+**：用到的特定罕见算法、难以想到的点、值得注意的语言特性、易错点、重大启发等
