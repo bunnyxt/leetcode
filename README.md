@@ -45,6 +45,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | 题目 | 难度 | 题解 | 分类* | 备注** |
 | --- | --- | --- | --- | --- |
 | x | x | x | x | x |
+| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [141.md](solutions/141.md) | 链表-单链表-简单 | 快慢指针追逐 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [206.md](solutions/206.md) | 链表-单链表-简单 | |
 
 *：按照`xx-yy-zz`格式标注的分类标准，出自[Leetcode-retag](reference/Leetcode-retag.md)这里；其他的分类则是自己的补充
