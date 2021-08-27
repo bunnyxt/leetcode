@@ -1,4 +1,5 @@
 # Leetcode-retag
+
 重新分类 Leetcode 高频题 2021 版
 
 - 题目按照面试频率降序排列
@@ -6,6 +7,7 @@
 - 增加细分类别，例如单调栈，前缀树等，一道题目可能会有多个类别
 
 # 目录
+
 - [𐀴 链表](#𐀴-链表)
     - 单链表
     - 双链表
@@ -76,6 +78,7 @@
 - [725. 分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/)
 
 ###### 困难
+
 - [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
 
 #### 双链表：
@@ -116,9 +119,11 @@
 #### 构造
 
 ###### 简单
+
 - [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
 
 ###### 中等
+
 - [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [106. 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 - [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
@@ -126,6 +131,7 @@
 - [1008. 前序遍历构造二叉搜索树](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 
 ###### 困难
+
 - [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
 
 #### 路径 | 深度 | 翻转
