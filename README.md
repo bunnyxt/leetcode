@@ -8,7 +8,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 
 出处：[Leetcode-retag](https://github.com/resumejob/Leetcode-retag/blob/4a5587e994c326963dda445ac55cca2fb9dc597e/README.md)，推荐按照这里的分类与顺序依次练习。
 
-备份：[Leetcode-retag.md](reference/Leetcode-retag.md)
+备份：[Leetcode-retag.md](reference/Leetcode-retag.md)，修复了目录链接，并将题目链接改为国际版链接
 
 ## 完整题库
 
