@@ -67,6 +67,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [328.md](solutions/328.md) | 链表-单链表-中等 | |
 | [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | Medium | [430.md](solutions/430.md) | 链表-单链表-中等 | |
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | Medium | [707.md](solutions/707.md) | 链表-单链表-中等 | |
+| [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium | [725.md](solutions/725.md) | 链表-单链表-中等 | |
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [876.md](solutions/876.md) | 链表-单链表-简单 | |
 
 *：按照`xx-yy-zz`格式标注的分类标准，出自[Leetcode-retag](reference/Leetcode-retag.md)这里；其他的分类则是自己的补充
