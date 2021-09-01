@@ -58,6 +58,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [94.md](solutions/94.md) | 树-遍历-简单 | |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [102.md](solutions/102.md) | 树-遍历-中等 | |
 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | [103.md](solutions/103.md) | 树-遍历-中等 | |
+| [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | [105.md](solutions/105.md) | 树-构造-中等 | 前序中序构建 |
 | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Medium | [107.md](solutions/107.md) | 树-遍历-中等 | |
 | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | [108.md](solutions/108.md) | 树-构造-简单 | |
 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | Medium | [109.md](solutions/109.md) | 链表-单链表-中等 | |
