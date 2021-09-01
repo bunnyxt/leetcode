@@ -87,7 +87,7 @@
 - [21. 合并两个有序链表](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [160. 相交链表](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 
-###### 中级
+###### 中等
 
 - [2. 两数相加](https://leetcode.com/problems/add-two-numbers/)
 - [445. 两数相加 II](https://leetcode.com/problems/add-two-numbers-ii/)
