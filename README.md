@@ -56,9 +56,10 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [86. Partition List](https://leetcode.com/problems/partition-list/) | Medium | [86.md](solutions/86.md) | 链表-单链表-中等 | |
 | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | [92.md](solutions/92.md) | 链表-单链表-中等 | |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [94.md](solutions/94.md) | 树-遍历-简单 | |
+| [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | [101.md](solutions/101.md) | 树-路径 \| 深度 \| 翻转-简单 | |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [102.md](solutions/102.md) | 树-遍历-中等 | |
 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | [103.md](solutions/103.md) | 树-遍历-中等 | |
-| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [104.md](solutions/104.md) | 树-路径 | 深度 | 翻转-简单 | |
+| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [104.md](solutions/104.md) | 树-路径 \| 深度 \| 翻转-简单 | |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | [105.md](solutions/105.md) | 树-构造-中等 | 前序中序构建 |
 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | [106.md](solutions/106.md) | 树-构造-中等 | 中序后序构建 |
 | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Medium | [107.md](solutions/107.md) | 树-遍历-中等 | |
