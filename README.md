@@ -65,6 +65,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Medium | [107.md](solutions/107.md) | 树-遍历-中等 | |
 | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | [108.md](solutions/108.md) | 树-构造-简单 | |
 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | Medium | [109.md](solutions/109.md) | 链表-单链表-中等 | |
+| [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | [110.md](solutions/110.md) | 树-路径 \| 深度 \| 翻转-简单 | |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | [114.md](solutions/114.md) | 树-构造-中等 | |
 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [138.md](solutions/138.md) | 链表-单链表-中等 | 新旧结点穿插 |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [141.md](solutions/141.md) | 链表-单链表-简单 | 快慢指针追逐 |
