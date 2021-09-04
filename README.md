@@ -88,6 +88,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [543.md](solutions/543.md) | 树-路径 \| 深度 \| 翻转-简单 | TBR |
 | [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | Easy | [589.md](solutions/589.md) | 树-遍历-简单 | |
 | [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | Easy | [590.md](solutions/590.md) | 树-遍历-简单 | |
+| [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | [617.md](solutions/617.md) | 树-路径 \| 深度 \| 翻转-简单 | |
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | Medium | [707.md](solutions/707.md) | 链表-单链表-中等 | |
 | [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium | [725.md](solutions/725.md) | 链表-单链表-中等 | |
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [876.md](solutions/876.md) | 链表-单链表-简单 | |
