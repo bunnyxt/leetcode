@@ -69,6 +69,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | [110.md](solutions/110.md) | 树-路径 \| 深度 \| 翻转-简单 | |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/remove-element/) | Easy | [111.md](solutions/111.md) | 树-路径 \| 深度 \| 翻转-简单 | |
 | [112. Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [112.md](solutions/112.md) | 树-路径 \| 深度 \| 翻转-简单 | |
+| [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Medium | [113.md](solutions/113.md) | 树-路径 \| 深度 \| 翻转-中等 | |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | [114.md](solutions/114.md) | 树-构造-中等 | |
 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [138.md](solutions/138.md) | 链表-单链表-中等 | 新旧结点穿插 |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [141.md](solutions/141.md) | 链表-单链表-简单 | 快慢指针追逐 |
