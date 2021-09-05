@@ -83,6 +83,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [206.md](solutions/206.md) | 链表-单链表-简单 | |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [226.md](solutions/226.md) | 树-路径 \| 深度 \| 翻转-简单 | |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | [234.md](solutions/234.md) | 链表-单链表-简单 | |
+| [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | [236.md](solutions/236.md) | 树-路径 \| 深度 \| 翻转-中等 | TBR |
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | [237.md](solutions/237.md) | 链表-单链表-简单 | 题目表述有坑 |
 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | Easy | [257.md](solutions/257.md) | 树-路径 \| 深度 \| 翻转-简单 | |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [328.md](solutions/328.md) | 链表-单链表-中等 | |
@@ -101,4 +102,4 @@ bunnyxt的LeetCode题解，使用Python3编码
 
 *：按照`xx-yy-zz`格式标注的分类标准，出自[Leetcode-retag](reference/Leetcode-retag.md)这里；其他的分类则是自己的补充
 
-**：用到的特定罕见算法、难以想到的点、值得注意的语言特性、易错点、重大启发等；TBR表示To Be Reviewed，表示需要复习，待完善
+**：用到的特定罕见算法、难以想到的点、值得注意的语言特性、易错点、重大启发等；`TBR`表示`To Be Reviewed`，表示需要复习，待完善
