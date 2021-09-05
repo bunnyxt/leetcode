@@ -71,6 +71,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [112. Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [112.md](solutions/112.md) | 树-路径 \| 深度 \| 翻转-简单 | |
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Medium | [113.md](solutions/113.md) | 树-路径 \| 深度 \| 翻转-中等 | |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | [114.md](solutions/114.md) | 树-构造-中等 | |
+| [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | [129.md](solutions/129.md) | 树-路径 \| 深度 \| 翻转-中等 | |
 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [138.md](solutions/138.md) | 链表-单链表-中等 | 新旧结点穿插 |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [141.md](solutions/141.md) | 链表-单链表-简单 | 快慢指针追逐 |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [142.md](solutions/142.md) | 链表-单链表-中等 | Floyd's Algorithm |
