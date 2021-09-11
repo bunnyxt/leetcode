@@ -56,6 +56,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [86. Partition List](https://leetcode.com/problems/partition-list/) | Medium | [86.md](solutions/86.md) | 链表-单链表-中等 | |
 | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | [92.md](solutions/92.md) | 链表-单链表-中等 | |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [94.md](solutions/94.md) | 树-遍历-简单 | |
+| [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | [96.md](solutions/96.md) | 树-二叉搜索树-中等 | DP |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [98.md](solutions/98.md) | 树-二叉搜索树-中等 | 二叉搜索树的中序遍历序列有序 |
 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [100.md](solutions/100.md) | 树-路径 \| 深度 \| 翻转-简单 | |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | [101.md](solutions/101.md) | 树-路径 \| 深度 \| 翻转-简单 | |
