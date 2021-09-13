@@ -59,6 +59,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | Medium | [95.md](solutions/95.md) | 树-二叉搜索树-中等 | |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | [96.md](solutions/96.md) | 树-二叉搜索树-中等 | DP |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [98.md](solutions/98.md) | 树-二叉搜索树-中等 | 二叉搜索树的中序遍历序列有序 |
+| [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Medium | [99.md](solutions/99.md) | 树-二叉搜索树-中等 | 定位交换点，递归/迭代/Morris中序遍历，TBR |
 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [100.md](solutions/100.md) | 树-路径 \| 深度 \| 翻转-简单 | |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | [101.md](solutions/101.md) | 树-路径 \| 深度 \| 翻转-简单 | |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [102.md](solutions/102.md) | 树-遍历-中等 | |
