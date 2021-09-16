@@ -46,6 +46,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | --- | --- | --- | --- | --- |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [2.md](solutions/2.md) | 链表-双链表-中等 | |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [19.md](solutions/19.md) | 链表-单链表-中等 | 快慢指针实现单趟遍历 |
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [20.md](solutions/20.md) | 栈-基础栈-简单 | |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [21.md](solutions/21.md) | 链表-双链表-简单 | |
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [23.md](solutions/23.md) | 链表-双链表-困难 | |
 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | [24.md](solutions/24.md) | 链表-单链表-中等 | |
