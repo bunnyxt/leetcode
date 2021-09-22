@@ -117,6 +117,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | [682.md](solutions/682.md) | 栈-基础栈-简单 | |
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | Medium | [707.md](solutions/707.md) | 链表-单链表-中等 | |
 | [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium | [725.md](solutions/725.md) | 链表-单链表-中等 | |
+| [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | [844.md](solutions/844.md) | 栈-基础栈-简单 | |
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [876.md](solutions/876.md) | 链表-单链表-简单 | |
 | [889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium | [889.md](solutions/889.md) | 树-构造-中等 | 前序后序创建 |
 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | [1021.md](solutions/1021.md) | 栈-基础栈-简单 | |
