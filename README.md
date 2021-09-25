@@ -64,6 +64,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | [82.md](solutions/82.md) | 链表-单链表-中等 | |
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [83.md](solutions/83.md) | 链表-单链表-简单 | |
 | [86. Partition List](https://leetcode.com/problems/partition-list/) | Medium | [86.md](solutions/86.md) | 链表-单链表-中等 | |
+| [89. Gray Code](https://leetcode.com/problems/gray-code/) | Medium | [89.md](solutions/89.md) | 回溯-中等 | |
 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | [90.md](solutions/90.md) | 回溯-中等 | |
 | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | [92.md](solutions/92.md) | 链表-单链表-中等 | |
 | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | Medium | [93.md](solutions/93.md) | 回溯-中等 | |
