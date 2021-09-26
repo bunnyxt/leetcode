@@ -117,7 +117,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | Easy | [257.md](solutions/257.md) | 树-路径 \| 深度 \| 翻转-简单 | |
 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | [297.md](solutions/297.md) | 树-构造-困难 | |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [328.md](solutions/328.md) | 链表-单链表-中等 | |
-| [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [394.md](solutions/394.md) | 图论- DFS-中等 | 栈 |
+| [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [394.md](solutions/394.md) | 栈-基础栈-中等 | |
 | [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | Medium | [430.md](solutions/430.md) | 链表-单链表-中等 | |
 | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Medium | [437.md](solutions/437.md) | 树-路径 \| 深度 \| 翻转-中等 | 记忆化 |
 | [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | Medium | [445.md](solutions/445.md) | 链表-双链表-中等 | |

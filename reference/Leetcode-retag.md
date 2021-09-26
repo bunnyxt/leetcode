@@ -468,7 +468,6 @@
 
 ###### 中等
 
-- [394. 字符串解码](https://leetcode.com/problems/decode-string/)
 - [721. 账户合并](https://leetcode.com/problems/accounts-merge/)
 - [547. 省份数量](https://leetcode.com/problems/number-of-provinces/)
 - [494. 目标和](https://leetcode.com/problems/target-sum/)
