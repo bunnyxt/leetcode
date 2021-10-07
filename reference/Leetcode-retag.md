@@ -241,7 +241,6 @@
 - [503. 下一个更大元素 II](https://leetcode.com/problems/next-greater-element-ii/)
 - [71. 简化路径](https://leetcode.com/problems/simplify-path/)
 - [856. 括号的分数](https://leetcode.com/problems/score-of-parentheses/)
-- [907. 子数组的最小值之和](https://leetcode.com/problems/sum-of-subarray-minimums/)
 - [385. 迷你语法分析器](https://leetcode.com/problems/mini-parser/)
 - [1249. 移除无效的括号](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 - [636. 函数的独占时间](https://leetcode.com/problems/exclusive-time-of-functions/)
@@ -261,6 +260,7 @@
 
 ###### 中等
 
+- [907. 子数组的最小值之和](https://leetcode.com/problems/sum-of-subarray-minimums/)
 - [739. 每日温度](https://leetcode.com/problems/daily-temperatures/)
 - [402. 移掉 K 位数字](https://leetcode.com/problems/remove-k-digits/)
 - [316. 去除重复字母](https://leetcode.com/problems/remove-duplicate-letters/)
