@@ -57,6 +57,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | [40.md](solutions/40.md) | 回溯-中等 | |
 | [46. Permutations](https://leetcode.com/problems/permutations/) | Medium | [46.md](solutions/46.md) | 回溯-中等 | |
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | [47.md](solutions/47.md) | 回溯-中等 | |
+| [51. N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [41.md](solutions/41.md) | 回溯-困难 | |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [61.md](solutions/61.md) | 链表-单链表-中等 | |
 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/)  | Medium | [71.md](solutions/71.md) | 栈-基础栈-中等 | |
 | [77. Combinations](https://leetcode.com/problems/combinations/) | Medium | [77.md](solutions/77.md) | 回溯-中等 | |
