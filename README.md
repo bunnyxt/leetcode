@@ -109,6 +109,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | [160.md](solutions/160.md) | 链表-双链表-简单 | 串接双链表 |
 | [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Easy | [173.md](solutions/173.md) | 树-二叉搜索树-中等 | 栈 |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | [199.md](solutions/199.md) | 树-路径 \| 深度 \| 翻转-中等 | |
+| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [200.md](solutions/200.md) | 并查集-中等 | BFS/DFS更简单 |
 | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | [203.md](solutions/203.md) | 链表-单链表-简单 | |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [206.md](solutions/206.md) | 链表-单链表-简单 | |
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | [216.md](solutions/216.md) | 回溯-中等 | |
