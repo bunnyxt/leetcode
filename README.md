@@ -146,6 +146,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) | Medium | [636.md](solutions/636.md) | 栈-基础栈-中等 | |
 | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | Medium | [662.md](solutions/662.md) | 树-路径 \| 深度 \| 翻转-中等 | |
 | [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | [682.md](solutions/682.md) | 栈-基础栈-简单 | |
+| [695. Max Area of Island](https://leetcode.com/problems/remove-element/) | Medium | [695.md](solutions/695.md) | 图论-DFS-中等 DFS,BFS,Union-Find | |
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | Medium | [707.md](solutions/707.md) | 链表-单链表-中等 | |
 | [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium | [725.md](solutions/725.md) | 链表-单链表-中等 | |
 | [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | Hard | [726.md](solutions/726.md) | 栈-基础栈-困难 | |
