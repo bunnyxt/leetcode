@@ -60,6 +60,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | [47.md](solutions/47.md) | 回溯-中等 | |
 | [51. N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [51.md](solutions/51.md) | 回溯-困难 | |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [61.md](solutions/61.md) | 链表-单链表-中等 | |
+| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [70.md](solutions/70.md) | 动态规划-一维-简单 DP | |
 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/)  | Medium | [71.md](solutions/71.md) | 栈-基础栈-中等 | |
 | [77. Combinations](https://leetcode.com/problems/combinations/) | Medium | [77.md](solutions/77.md) | 回溯-中等 | |
 | [78. Subsets](https://leetcode.com/problems/subsets/) | Medium | [78.md](solutions/78.md) | 回溯-中等 | |
