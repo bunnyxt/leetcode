@@ -57,6 +57,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | [37.md](solutions/37.md) | 回溯-困难 | |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [39.md](solutions/39.md) | 回溯-中等 | |
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | [40.md](solutions/40.md) | 回溯-中等 | |
+| [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | [45.md](solutions/45.md) | Greedy | |
 | [46. Permutations](https://leetcode.com/problems/permutations/) | Medium | [46.md](solutions/46.md) | 回溯-中等 | |
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | [47.md](solutions/47.md) | 回溯-中等 | |
 | [51. N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [51.md](solutions/51.md) | 回溯-困难 | |
