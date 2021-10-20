@@ -46,6 +46,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | --- | --- | --- | --- | --- |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [1.md](solutions/1.md) | | |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [2.md](solutions/2.md) | 链表-双链表-中等 | |
+| [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | [15.md](solutions/15.md) | Two-Pointers | |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [17.md](solutions/17.md) | 回溯-中等 | |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [19.md](solutions/19.md) | 链表-单链表-中等 | 快慢指针实现单趟遍历 |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [20.md](solutions/20.md) | 栈-基础栈-简单 | |
