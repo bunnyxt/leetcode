@@ -44,7 +44,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 
 | 题目 | 难度 | 题解 | 分类* | 备注** |
 | --- | --- | --- | --- | --- |
-| [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [1.md](solutions/1.md) | | |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [1.md](solutions/1.md) | Hash-Table | |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [2.md](solutions/2.md) | 链表-双链表-中等 | |
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | [15.md](solutions/15.md) | Two-Pointers | |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [17.md](solutions/17.md) | 回溯-中等 | |
