@@ -112,6 +112,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | Medium | [147.md](solutions/147.md) | 链表-单链表-中等 | |
 | [148. Sort List](https://leetcode.com/problems/sort-list/) | Medium | [148.md](solutions/148.md) | 链表-单链表-中等 | 归并排序 |
 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [150.md](solutions/150.md) | 栈-基础栈-中等 | |
+| [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | [152.md](solutions/152.md) | 动态规划-一维-中等 | Kadane's Algorithm |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Easy | [155.md](solutions/155.md) | 栈-基础栈-简单 | |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | [160.md](solutions/160.md) | 链表-双链表-简单 | 串接双链表 |
 | [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Easy | [173.md](solutions/173.md) | 树-二叉搜索树-中等 | 栈 |
