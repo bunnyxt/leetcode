@@ -99,7 +99,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | [114.md](solutions/114.md) | 树-构造-中等 | |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Medium | [116.md](solutions/116.md) | 树-路径 \| 深度 \| 翻转-中等 | |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [121.md](solutions/121.md) | 动态规划-一维-简单 | |
-| [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/remove-element/) | Medium | [124.md](solutions/124.md) | 树-路径 \| 深度 \| 翻转-困难 | 递归子问题返回值设计 |
+| [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | [124.md](solutions/124.md) | 树-路径 \| 深度 \| 翻转-困难 | 递归子问题返回值设计 |
 | [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | Hard | [126.md](solutions/126.md) | 回溯-困难 | BFS构建DAG |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | [129.md](solutions/129.md) | 树-路径 \| 深度 \| 翻转-中等 | |
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | [130.md](solutions/130.md) | 图论-DFS-中等 DFS,BFS,Union-Find | |
