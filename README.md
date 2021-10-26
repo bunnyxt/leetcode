@@ -105,6 +105,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | [129.md](solutions/129.md) | 树-路径 \| 深度 \| 翻转-中等 | |
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | [130.md](solutions/130.md) | 图论-DFS-中等 DFS,BFS,Union-Find | |
 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [138.md](solutions/138.md) | 链表-单链表-中等 | 新旧结点穿插 |
+| [139. Word Break](https://leetcode.com/problems/word-break/) | Medium | [139.md](solutions/139.md) | 动态规划-一维-中等 DP,BFS | |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [141.md](solutions/141.md) | 链表-单链表-简单 | 快慢指针追逐 |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [142.md](solutions/142.md) | 链表-单链表-中等 | Floyd's Algorithm |
 | [143. Reorder List](https://leetcode.com/problems/remove-element/) | Medium | [143.md](solutions/143.md) | 链表-单链表-中等 | |
