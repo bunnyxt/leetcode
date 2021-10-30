@@ -101,6 +101,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | [114.md](solutions/114.md) | 树-构造-中等 | |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Medium | [116.md](solutions/116.md) | 树-路径 \| 深度 \| 翻转-中等 | |
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [118.md](solutions/118.md) | | |
+| [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | [119.md](solutions/119.md) | | |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [121.md](solutions/121.md) | 动态规划-一维-简单 | |
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | [122.md](solutions/122.md) | | |
 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | [124.md](solutions/124.md) | 树-路径 \| 深度 \| 翻转-困难 | 递归子问题返回值设计 |
