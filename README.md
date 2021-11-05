@@ -48,6 +48,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [2.md](solutions/2.md) | 链表-双链表-中等 | |
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [5.md](solutions/5.md) | 动态规划-二维-中等 DP | TBR |
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | [15.md](solutions/15.md) | Two-Pointers | |
+| [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | [16.md](solutions/16.md) | 双指针与滑动窗口-中等 Two-Pointers | |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [17.md](solutions/17.md) | 回溯-中等 | |
 | [18. 4Sum](https://leetcode.com/problems/4sum/) | Medium | [18.md](solutions/18.md) | 双指针与滑动窗口-中等 Two-Pointers | |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [19.md](solutions/19.md) | 链表-单链表-中等 | 快慢指针实现单趟遍历 |
