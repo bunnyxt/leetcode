@@ -49,6 +49,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [5.md](solutions/5.md) | 动态规划-二维-中等 DP | TBR |
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | [15.md](solutions/15.md) | Two-Pointers | |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [17.md](solutions/17.md) | 回溯-中等 | |
+| [18. 4Sum](https://leetcode.com/problems/4sum/) | Medium | [18.md](solutions/18.md) | 双指针与滑动窗口-中等 Two-Pointers | |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [19.md](solutions/19.md) | 链表-单链表-中等 | 快慢指针实现单趟遍历 |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [20.md](solutions/20.md) | 栈-基础栈-简单 | |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [21.md](solutions/21.md) | 链表-双链表-简单 | |
