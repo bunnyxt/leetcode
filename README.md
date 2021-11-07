@@ -153,6 +153,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | [236.md](solutions/236.md) | 树-路径 \| 深度 \| 翻转-中等 | TBR |
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | [237.md](solutions/237.md) | 链表-单链表-简单 | 题目表述有坑 |
 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | Easy | [257.md](solutions/257.md) | 树-路径 \| 深度 \| 翻转-简单 | |
+| [260. Single Number III](https://leetcode.com/problems/single-number-iii/) | Medium | [260.md](solutions/260.md) | 位运算-中等 Bit-Manipulation | `x & (-x)`提取最右侧的`1` |
 | [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | Medium | [264.md](solutions/264.md) | 贪心-中等 动态规划-一维-中等 DP | |
 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | [297.md](solutions/297.md) | 树-构造-困难 | |
 | [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium | [304.md](solutions/304.md) | | |
