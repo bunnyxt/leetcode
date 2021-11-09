@@ -78,7 +78,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/)  | Medium | [71.md](solutions/71.md) | 栈-基础栈-中等 | |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/)  | Medium | [75.md](solutions/75.md) | Two-Pointers | |
 | [77. Combinations](https://leetcode.com/problems/combinations/) | Medium | [77.md](solutions/77.md) | 回溯-中等 | |
-| [78. Subsets](https://leetcode.com/problems/subsets/) | Medium | [78.md](solutions/78.md) | 回溯-中等 | |
+| [78. Subsets](https://leetcode.com/problems/subsets/) | Medium | [78.md](solutions/78.md) | 回溯-中等 位运算-中等 Backtracking,Bit-Manipulation | |
 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | [79.md](solutions/79.md) | 回溯-中等 | |
 | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | [82.md](solutions/82.md) | 链表-单链表-中等 | |
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [83.md](solutions/83.md) | 链表-单链表-简单 | |
