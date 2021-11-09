@@ -210,6 +210,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | [1008.md](solutions/1008.md) | 树-构造-中等 | |
 | [1124. Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | Medium | [1124.md](solutions/1124.md) | 栈-单调栈-中等 | 核心思路与单调栈无关 |
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | [1137.md](solutions/1137.md) | Recursion,Memoization,DP | |
+| [1178. Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | Hard | [1178.md](solutions/1178.md) | Hash-Table,Bit-Manumulation | TBR |
 | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | [1190.md](solutions/1190.md) | 栈-基础栈-中等 | |
 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium | [1249.md](solutions/1249.md) | 栈-基础栈-中等 | |
 | [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | Medium | [1314.md](solutions/1314.md) | | |
