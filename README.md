@@ -173,6 +173,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [394.md](solutions/394.md) | 栈-基础栈-中等 | |
 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | [402.md](solutions/402.md) | 栈-单调栈-中等 | 剩余数字单调递增 |
 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | [404.md](solutions/404.md) | | |
+| [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | Easy | [405.md](solutions/405.md) | 位运算-简单 Bit-Manipulation | |
 | [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | Medium | [413.md](solutions/413.md) | | |
 | [423. Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | Medium | [423.md](solutions/423.md) | | 奥数题 |
 | [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | Medium | [430.md](solutions/430.md) | 链表-单链表-中等 | |
