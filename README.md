@@ -168,6 +168,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Medium | [309.md](solutions/309.md) | 动态规划-一维-中等 DP | TBR |
 | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | Medium | [316.md](solutions/316.md) | 栈-单调栈-中等 | |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [328.md](solutions/328.md) | 链表-单链表-中等 | |
+| [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [338.md](solutions/338.md) | 位运算-简单 动态规划-一维-简单 Bit-Manipulation,DP | |
 | [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | Medium | [341.md](solutions/341.md) | 栈-基础栈-中等 | |
 | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | [368.md](solutions/368.md) | DP | |
 | [385. Mini Parser](https://leetcode.com/problems/mini-parser/) | Medium | [385.md](solutions/385.md) | 栈-基础栈-中等 | |
