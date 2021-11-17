@@ -224,6 +224,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium | [1249.md](solutions/1249.md) | 栈-基础栈-中等 | |
 | [1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | Medium | [1286.md](solutions/1286.md) | Backtracking | |
 | [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | Medium | [1314.md](solutions/1314.md) | | |
+| [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | Medium | [1318.md](solutions/1318.md) | 位运算-中等 | |
 | [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | Easy | [1413.md](solutions/1413.md) | | |
 | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium | [1448.md](solutions/1448.md) | Tree,BFS,DFS | |
 | [1567. Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | Medium | [1567.md](solutions/1567.md) | | |
