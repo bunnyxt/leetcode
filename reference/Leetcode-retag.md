@@ -348,11 +348,11 @@
 - [461. 汉明距离](https://leetcode.com/problems/hamming-distance/)
 - [405. 数字转换为十六进制数](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
 - [268. 丢失的数字](https://leetcode.com/problems/missing-number/)
+- [338. 比特位计数](https://leetcode.com/problems/counting-bits/)
 
 ###### 中等
 
 - [78. 子集](https://leetcode.com/problems/subsets/)
-- [338. 比特位计数](https://leetcode.com/problems/counting-bits/)
 - [1318. 或运算的最小翻转次数](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)
 - [89. 格雷编码](https://leetcode.com/problems/gray-code/)
 - [260. 只出现一次的数字 III](https://leetcode.com/problems/single-number-iii/)
@@ -419,6 +419,7 @@
 - [53. 最大子序和](https://leetcode.com/problems/maximum-subarray/)
 - [121. 买卖股票的最佳时机](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [746. 使用最小花费爬楼梯](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [338. 比特位计数](https://leetcode.com/problems/counting-bits/)
 
 ###### 中等
 
@@ -427,7 +428,6 @@
 - [300. 最长递增子序列](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [139. 单词拆分](https://leetcode.com/problems/word-break/)
 - [152. 乘积最大子数组](https://leetcode.com/problems/maximum-product-subarray/)
-- [338. 比特位计数](https://leetcode.com/problems/counting-bits/)
 - [309. 最佳买卖股票时机含冷冻期](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 - [264. 丑数 II](https://leetcode.com/problems/ugly-number-ii/)
 - [279. 完全平方数](https://leetcode.com/problems/perfect-squares/)
