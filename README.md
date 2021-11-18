@@ -172,6 +172,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [338.md](solutions/338.md) | 位运算-简单 动态规划-一维-简单 Bit-Manipulation,DP | |
 | [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | Medium | [341.md](solutions/341.md) | 栈-基础栈-中等 | |
 | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | [368.md](solutions/368.md) | DP | |
+| [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Medium | [371.md](solutions/371.md) | 位运算-中等 Bit-Manipulation | |
 | [385. Mini Parser](https://leetcode.com/problems/mini-parser/) | Medium | [385.md](solutions/385.md) | 栈-基础栈-中等 | |
 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy | [389.md](solutions/389.md) | 位运算-简单 Bit-Manipulation | |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [394.md](solutions/394.md) | 栈-基础栈-中等 | |
