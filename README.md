@@ -191,6 +191,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium | [503.md](solutions/503.md) | 栈-基础栈-中等 | |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | [509.md](solutions/509.md) | Recursion,Memoization,DP | |
 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Medium | [515.md](solutions/515.md) | 树-路径 \| 深度 \| 翻转-中等 | |
+| [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | [540.md](solutions/540.md) | Binary-Search | |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [543.md](solutions/543.md) | 树-路径 \| 深度 \| 翻转-简单 | TBR |
 | [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | Easy | [589.md](solutions/589.md) | 树-遍历-简单 | |
 | [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | Easy | [590.md](solutions/590.md) | 树-遍历-简单 | |
