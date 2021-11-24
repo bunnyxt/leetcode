@@ -221,6 +221,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | [931.md](solutions/931.md) | DP | |
 | [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | Hard | [952.md](solutions/952.md) | Union-Find | |
 | [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | Hard | [980.md](solutions/980.md) | Backtracking | |
+| [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Medium | [986.md](solutions/986.md) | Two-Pointers | |
 | [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | Medium | [1014.md](solutions/1014.md) | DP | 单变量DP共性总结 |
 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | [1021.md](solutions/1021.md) | 栈-基础栈-简单 | |
 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | [1047.md](solutions/1047.md) | 栈-基础栈-简单 | |
