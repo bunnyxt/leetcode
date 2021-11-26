@@ -58,6 +58,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [23.md](solutions/23.md) | 链表-双链表-困难 | |
 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | [24.md](solutions/24.md) | 链表-单链表-中等 | |
 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | [25.md](solutions/25.md) | 链表-单链表-困难 | |
+| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [35.md](solutions/35.md) | 二分查找-简单 | |
 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | [37.md](solutions/37.md) | 回溯-困难 | |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [39.md](solutions/39.md) | 回溯-中等 | |
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | [40.md](solutions/40.md) | 回溯-中等 | |
