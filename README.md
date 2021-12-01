@@ -46,7 +46,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | --- | --- | --- | --- | --- |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [1.md](solutions/1.md) | Hash-Table | |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [2.md](solutions/2.md) | 链表-双链表-中等 | |
-| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [5.md](solutions/5.md) | 动态规划-二维-中等 DP | TBR |
+| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [5.md](solutions/5.md) | 动态规划-二维-中等 Dynamic-Programming | TBR |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [11.md](solutions/11.md) | 双指针与滑动窗口-中等 Two-Pointers | |
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | [15.md](solutions/15.md) | Two-Pointers | |
 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | [16.md](solutions/16.md) | 双指针与滑动窗口-中等 Two-Pointers | |
@@ -65,7 +65,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | [40.md](solutions/40.md) | 回溯-中等 | |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [42.md](solutions/42.md) | 栈-单调栈-困难 Monotonic-Stack,Two-Pointers | |
 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Easy | [43.md](solutions/43.md) | | |
-| [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | Hard | [44.md](solutions/44.md) | 动态规划-二维-困难 Backtracking,DP | TBR |
+| [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | Hard | [44.md](solutions/44.md) | 动态规划-二维-困难 Backtracking,Dynamic-Programming | TBR |
 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | [45.md](solutions/45.md) | Greedy | |
 | [46. Permutations](https://leetcode.com/problems/permutations/) | Medium | [46.md](solutions/46.md) | 回溯-中等 | |
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | [47.md](solutions/47.md) | 回溯-中等 | |
@@ -74,10 +74,10 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [53.md](solutions/53.md) | 动态规划-一维-简单 | Kadane's Algorithm |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [55.md](solutions/55.md) | Greedy | |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [61.md](solutions/61.md) | 链表-单链表-中等 | |
-| [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [62.md](solutions/62.md) | 动态规划-二维-中等 DP | |
-| [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | [63.md](solutions/63.md) | DP | |
-| [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [64.md](solutions/64.md) | 动态规划-二维-中等 DP | |
-| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [70.md](solutions/70.md) | 动态规划-一维-简单 DP | |
+| [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [62.md](solutions/62.md) | 动态规划-二维-中等 Dynamic-Programming | |
+| [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | [63.md](solutions/63.md) | Dynamic-Programming | |
+| [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [64.md](solutions/64.md) | 动态规划-二维-中等 Dynamic-Programming | |
+| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [70.md](solutions/70.md) | 动态规划-一维-简单 Dynamic-Programming | |
 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/)  | Medium | [71.md](solutions/71.md) | 栈-基础栈-中等 | |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/)  | Medium | [75.md](solutions/75.md) | Two-Pointers | |
 | [77. Combinations](https://leetcode.com/problems/combinations/) | Medium | [77.md](solutions/77.md) | 回溯-中等 | |
@@ -88,12 +88,12 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [86. Partition List](https://leetcode.com/problems/partition-list/) | Medium | [86.md](solutions/86.md) | 链表-单链表-中等 | |
 | [89. Gray Code](https://leetcode.com/problems/gray-code/) | Medium | [89.md](solutions/89.md) | 回溯-中等 位运算-中等 Backtracking,Bit-Manipulation | |
 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | [90.md](solutions/90.md) | 回溯-中等 | |
-| [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium | [91.md](solutions/91.md) | DP | |
+| [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium | [91.md](solutions/91.md) | Dynamic-Programming | |
 | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | [92.md](solutions/92.md) | 链表-单链表-中等 | |
 | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | Medium | [93.md](solutions/93.md) | 回溯-中等 | |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [94.md](solutions/94.md) | 树-遍历-简单 | |
 | [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | Medium | [95.md](solutions/95.md) | 树-二叉搜索树-中等 | |
-| [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | [96.md](solutions/96.md) | 树-二叉搜索树-中等 DP | DP |
+| [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | [96.md](solutions/96.md) | 树-二叉搜索树-中等 Dynamic-Programming | 实际上是DP题 |
 | [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) | Medium | [97.md](solutions/97.md) | BFS | TBR |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [98.md](solutions/98.md) | 树-二叉搜索树-中等 | 二叉搜索树的中序遍历序列有序 |
 | [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Medium | [99.md](solutions/99.md) | 树-二叉搜索树-中等 | 定位交换点，递归/迭代/Morris中序遍历，TBR |
@@ -115,7 +115,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Medium | [116.md](solutions/116.md) | 树-路径 \| 深度 \| 翻转-中等 | |
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [118.md](solutions/118.md) | | |
 | [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | [119.md](solutions/119.md) | | |
-| [120. Triangle](https://leetcode.com/problems/triangle/) | Medium | [120.md](solutions/120.md) | DP | |
+| [120. Triangle](https://leetcode.com/problems/triangle/) | Medium | [120.md](solutions/120.md) | Dynamic-Programming | |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [121.md](solutions/121.md) | 动态规划-一维-简单 | |
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | [122.md](solutions/122.md) | | |
 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | [124.md](solutions/124.md) | 树-路径 \| 深度 \| 翻转-困难 | 递归子问题返回值设计 |
@@ -125,7 +125,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | [136.md](solutions/136.md) | 位运算-简单 Bit-Manipulation | |
 | [137. Single Number II](https://leetcode.com/problems/single-number-ii/) | Medium | [137.md](solutions/137.md) | 位运算-中等 | |
 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [138.md](solutions/138.md) | 链表-单链表-中等 | 新旧结点穿插 |
-| [139. Word Break](https://leetcode.com/problems/word-break/) | Medium | [139.md](solutions/139.md) | 动态规划-一维-中等 DP,BFS | |
+| [139. Word Break](https://leetcode.com/problems/word-break/) | Medium | [139.md](solutions/139.md) | 动态规划-一维-中等 Dynamic-Programming,BFS | |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [141.md](solutions/141.md) | 链表-单链表-简单 | 快慢指针追逐 |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [142.md](solutions/142.md) | 链表-单链表-中等 | Floyd's Algorithm |
 | [143. Reorder List](https://leetcode.com/problems/remove-element/) | Medium | [143.md](solutions/143.md) | 链表-单链表-中等 | |
@@ -142,16 +142,16 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | [173.md](solutions/173.md) | 树-二叉搜索树-中等 | 栈 |
 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | [190.md](solutions/190.md) | 位运算-简单 Bit-Manipulation,Divide-and-Conquer | |
 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | [191.md](solutions/191.md) | 位运算-简单 Bit-Manipulation | |
-| [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | [198.md](solutions/198.md) | DP | |
+| [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | [198.md](solutions/198.md) | Dynamic-Programming | |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | [199.md](solutions/199.md) | 树-路径 \| 深度 \| 翻转-中等 | |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [200.md](solutions/200.md) | 并查集-中等 | BFS/DFS更简单 |
 | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | [203.md](solutions/203.md) | 链表-单链表-简单 | |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [206.md](solutions/206.md) | 链表-单链表-简单 | |
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) |  Medium | [207.md](solutions/207.md) | 图论-拓扑排序-中等 Graph,DFS,Topological-Sort  | |
 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) |  Medium | [210.md](solutions/210.md) | 图论-拓扑排序-中等 Graph,DFS,Topological-Sort  | |
-| [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [213.md](solutions/213.md) | DP | |
+| [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [213.md](solutions/213.md) | Dynamic-Programming | |
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | [216.md](solutions/216.md) | 回溯-中等 | |
-| [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | Medium | [221.md](solutions/221.md) | 动态规划-二维-中等 DP | |
+| [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | Medium | [221.md](solutions/221.md) | 动态规划-二维-中等 Dynamic-Programming | |
 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | [222.md](solutions/222.md) | 树-路径 \| 深度 \| 翻转-中等 | 完全二叉树算高度 |
 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | [224.md](solutions/224.md) | 栈-基础栈-困难 | |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [226.md](solutions/226.md) | 树-路径 \| 深度 \| 翻转-简单 | |
@@ -164,20 +164,20 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | [237.md](solutions/237.md) | 链表-单链表-简单 | 题目表述有坑 |
 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | Easy | [257.md](solutions/257.md) | 树-路径 \| 深度 \| 翻转-简单 | |
 | [260. Single Number III](https://leetcode.com/problems/single-number-iii/) | Medium | [260.md](solutions/260.md) | 位运算-中等 Bit-Manipulation | `x & (-x)`提取最右侧的`1` |
-| [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | Medium | [264.md](solutions/264.md) | 贪心-中等 动态规划-一维-中等 DP | |
+| [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | Medium | [264.md](solutions/264.md) | 贪心-中等 动态规划-一维-中等 Dynamic-Programming | |
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [268.md](solutions/268.md) | 位运算-简单 Bit-Manipulation | |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [283.md](solutions/283.md) | 双指针-简单 Two-Pointers | |
 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | [297.md](solutions/297.md) | 树-构造-困难 | |
 | [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium | [304.md](solutions/304.md) | | |
-| [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Medium | [309.md](solutions/309.md) | 动态规划-一维-中等 DP | TBR |
+| [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Medium | [309.md](solutions/309.md) | 动态规划-一维-中等 Dynamic-Programming | TBR |
 | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | Medium | [316.md](solutions/316.md) | 栈-单调栈-中等 | |
-| [322. Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [322.md](solutions/322.md) | 动态规划-一维-中等 DP | |
+| [322. Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [322.md](solutions/322.md) | 动态规划-一维-中等 Dynamic-Programming | |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [328.md](solutions/328.md) | 链表-单链表-中等 | |
-| [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [338.md](solutions/338.md) | 位运算-简单 动态规划-一维-简单 Bit-Manipulation,DP | |
+| [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [338.md](solutions/338.md) | 位运算-简单 动态规划-一维-简单 Bit-Manipulation,Dynamic-Programming | |
 | [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | Medium | [341.md](solutions/341.md) | 栈-基础栈-中等 | |
-| [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | [368.md](solutions/368.md) | DP | |
+| [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | [368.md](solutions/368.md) | Dynamic-Programming | |
 | [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Medium | [371.md](solutions/371.md) | 位运算-中等 Bit-Manipulation | |
-| [376. Wiggle Subsequence](https://leetcode.com/problems/remove-element/) | Medium | [376.md](solutions/376.md) | DP | |
+| [376. Wiggle Subsequence](https://leetcode.com/problems/remove-element/) | Medium | [376.md](solutions/376.md) | Dynamic-Programming | |
 | [385. Mini Parser](https://leetcode.com/problems/mini-parser/) | Medium | [385.md](solutions/385.md) | 栈-基础栈-中等 | |
 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy | [389.md](solutions/389.md) | 位运算-简单 Bit-Manipulation | |
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [392.md](solutions/392.md) | Two-Pointers | |
@@ -196,10 +196,10 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/) | Easy | [461.md](solutions/461.md) | 位运算-简单 Bit-Manipulation | |
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | [496.md](solutions/496.md) | 栈-单调栈-简单 | |
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium | [503.md](solutions/503.md) | 栈-基础栈-中等 | |
-| [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | [509.md](solutions/509.md) | Recursion,Memoization,DP | |
+| [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | [509.md](solutions/509.md) | Recursion,Memoization,Dynamic-Programming | |
 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Medium | [515.md](solutions/515.md) | 树-路径 \| 深度 \| 翻转-中等 | |
-| [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | [516.md](solutions/516.md) | DP | |
-| [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/) | Medium | [518.md](solutions/518.md) | DP | |
+| [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | [516.md](solutions/516.md) | Dynamic-Programming | |
+| [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/) | Medium | [518.md](solutions/518.md) | Dynamic-Programming | |
 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | [540.md](solutions/540.md) | Binary-Search | |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [543.md](solutions/543.md) | 树-路径 \| 深度 \| 翻转-简单 | TBR |
 | [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | Easy | [589.md](solutions/589.md) | 树-遍历-简单 | |
@@ -216,8 +216,8 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium | [725.md](solutions/725.md) | 链表-单链表-中等 | |
 | [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | Hard | [726.md](solutions/726.md) | 栈-基础栈-困难 | |
 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [739.md](solutions/739.md) | 栈-单调栈-中等 | |
-| [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | Medium | [740.md](solutions/740.md) | DP | |
-| [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | [746.md](solutions/746.md) | 动态规划-一维-简单 Recursion,Memoization,DP | |
+| [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | Medium | [740.md](solutions/740.md) | Dynamic-Programming | |
+| [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | [746.md](solutions/746.md) | 动态规划-一维-简单 Recursion,Memoization,Dynamic-Programming | |
 | [842. Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | Medium | [842.md](solutions/842.md) | 回溯-中等 | |
 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | [844.md](solutions/844.md) | 栈-基础栈-简单 Two-Pointers | |
 | [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Medium | [856.md](solutions/856.md) | 栈-基础栈-中等 | |
@@ -225,16 +225,16 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium | [889.md](solutions/889.md) | 树-构造-中等 | 前序后序创建 |
 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | [907.md](solutions/907.md) | 栈-单调栈-中等 | 单调栈详解 |
 | [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | [918.md](solutions/918.md) | | Kadane's Algorithm |
-| [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | [931.md](solutions/931.md) | DP | |
+| [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | [931.md](solutions/931.md) | Dynamic-Programming | |
 | [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | Hard | [952.md](solutions/952.md) | Union-Find | |
 | [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | Hard | [980.md](solutions/980.md) | Backtracking | |
 | [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Medium | [986.md](solutions/986.md) | Two-Pointers | |
-| [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | Medium | [1014.md](solutions/1014.md) | DP | 单变量DP共性总结 |
+| [1014. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | Medium | [1014.md](solutions/1014.md) | Dynamic-Programming | 单变量DP共性总结 |
 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | [1021.md](solutions/1021.md) | 栈-基础栈-简单 | |
 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | [1047.md](solutions/1047.md) | 栈-基础栈-简单 | |
 | [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | [1008.md](solutions/1008.md) | 树-构造-中等 | |
 | [1124. Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | Medium | [1124.md](solutions/1124.md) | 栈-单调栈-中等 | 核心思路与单调栈无关 |
-| [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | [1137.md](solutions/1137.md) | Recursion,Memoization,DP | |
+| [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | [1137.md](solutions/1137.md) | Recursion,Memoization,Dynamic-Programming | |
 | [1178. Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | Hard | [1178.md](solutions/1178.md) | Hash-Table,Bit-Manumulation | TBR |
 | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | [1190.md](solutions/1190.md) | 栈-基础栈-中等 | |
 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium | [1249.md](solutions/1249.md) | 栈-基础栈-中等 | |
