@@ -240,6 +240,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | Easy | [1217.md](solutions/1217.md) | | |
 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium | [1249.md](solutions/1249.md) | 栈-基础栈-中等 | |
 | [1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | Medium | [1286.md](solutions/1286.md) | Backtracking | |
+| [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | [1290.md](solutions/1290.md) | | |
 | [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | Medium | [1314.md](solutions/1314.md) | | |
 | [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | Medium | [1318.md](solutions/1318.md) | 位运算-中等 | |
 | [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | Easy | [1413.md](solutions/1413.md) | | |
