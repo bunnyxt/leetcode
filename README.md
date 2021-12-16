@@ -113,6 +113,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Medium | [113.md](solutions/113.md) | 树-路径 \| 深度 \| 翻转-中等 | |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | [114.md](solutions/114.md) | 树-构造-中等 | |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Medium | [116.md](solutions/116.md) | 树-路径 \| 深度 \| 翻转-中等 | |
+| [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | Medium | [117.md](solutions/117.md) | Tree | |
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [118.md](solutions/118.md) | | |
 | [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | [119.md](solutions/119.md) | | |
 | [120. Triangle](https://leetcode.com/problems/triangle/) | Medium | [120.md](solutions/120.md) | Dynamic-Programming | |
