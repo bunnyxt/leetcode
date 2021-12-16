@@ -170,7 +170,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | [297.md](solutions/297.md) | 树-构造-困难 | |
 | [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium | [304.md](solutions/304.md) | | |
 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Medium | [309.md](solutions/309.md) | 动态规划-一维-中等 Dynamic-Programming | TBR |
-| [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | [310.md](solutions/310.md) | 动态规划-一维-中等 Dynamic-Programming | |
+| [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | [310.md](solutions/310.md) | Tree | |
 | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | Medium | [316.md](solutions/316.md) | 栈-单调栈-中等 | |
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [322.md](solutions/322.md) | 动态规划-一维-中等 Dynamic-Programming | |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [328.md](solutions/328.md) | 链表-单链表-中等 | |
