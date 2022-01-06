@@ -152,6 +152,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) |  Medium | [207.md](solutions/207.md) | 图论-拓扑排序-中等 Graph,DFS,Topological-Sort  | |
 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) |  Medium | [210.md](solutions/210.md) | 图论-拓扑排序-中等 Graph,DFS,Topological-Sort  | |
 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [213.md](solutions/213.md) | Dynamic-Programming | |
+| [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [215.md](solutions/215.md) | 堆-中等 Heap | |
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | [216.md](solutions/216.md) | 回溯-中等 | |
 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | Medium | [221.md](solutions/221.md) | 动态规划-二维-中等 Dynamic-Programming | |
 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | [222.md](solutions/222.md) | 树-路径 \| 深度 \| 翻转-中等 | 完全二叉树算高度 |
