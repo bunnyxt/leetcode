@@ -78,7 +78,8 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | [63.md](solutions/63.md) | Dynamic-Programming | |
 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [64.md](solutions/64.md) | 动态规划-二维-中等 Dynamic-Programming | |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [70.md](solutions/70.md) | 动态规划-一维-简单 Dynamic-Programming | |
-| [71. Simplify Path](https://leetcode.com/problems/simplify-path/)  | Medium | [71.md](solutions/71.md) | 栈-基础栈-中等 | |
+| [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | [71.md](solutions/71.md) | 栈-基础栈-中等 | |
+| [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [72.md](solutions/72.md) | 动态规划-二维-困难 Dynamic-Programming | |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/)  | Medium | [75.md](solutions/75.md) | Two-Pointers | |
 | [77. Combinations](https://leetcode.com/problems/combinations/) | Medium | [77.md](solutions/77.md) | 回溯-中等 | |
 | [78. Subsets](https://leetcode.com/problems/subsets/) | Medium | [78.md](solutions/78.md) | 回溯-中等 位运算-中等 Backtracking,Bit-Manipulation | |
