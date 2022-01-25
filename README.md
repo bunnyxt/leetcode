@@ -251,6 +251,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) | Medium | [1094.md](solutions/1094.md) | | |
 | [1124. Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | Medium | [1124.md](solutions/1124.md) | 栈-单调栈-中等 | 核心思路与单调栈无关 |
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | [1137.md](solutions/1137.md) | Recursion,Memoization,Dynamic-Programming | |
+| [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [1143.md](solutions/1143.md) | 动态规划-二维-中等 Dynamic-Programming | |
 | [1165. Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/) | Easy | [1165.md](solutions/1165.md) | | |
 | [1178. Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | Hard | [1178.md](solutions/1178.md) | Hash-Table,Bit-Manumulation | TBR |
 | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | [1190.md](solutions/1190.md) | 栈-基础栈-中等 | |
