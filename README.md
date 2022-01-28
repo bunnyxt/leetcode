@@ -87,6 +87,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | [82.md](solutions/82.md) | 链表-单链表-中等 Linked-List,Two-Pointers | |
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [83.md](solutions/83.md) | 链表-单链表-简单 | |
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | [84.md](solutions/84.md) | 栈-单调栈-困难 Monotonic-Stack | |
+| [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | [85.md](solutions/85.md) | 栈-单调栈-困难 Monotonic-Stack | |
 | [86. Partition List](https://leetcode.com/problems/partition-list/) | Medium | [86.md](solutions/86.md) | 链表-单链表-中等 | |
 | [89. Gray Code](https://leetcode.com/problems/gray-code/) | Medium | [89.md](solutions/89.md) | 回溯-中等 位运算-中等 Backtracking,Bit-Manipulation | |
 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | [90.md](solutions/90.md) | 回溯-中等 | |
