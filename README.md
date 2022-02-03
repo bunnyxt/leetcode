@@ -127,6 +127,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | [129.md](solutions/129.md) | 树-路径 \| 深度 \| 翻转-中等 | |
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | [130.md](solutions/130.md) | 图论-DFS-中等 DFS,BFS,Union-Find | |
 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium | [131.md](solutions/131.md) | 动态规划-二维-中等 Dynamic-Programming,DFS | |
+| [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | Hard | [132.md](solutions/132.md) | 动态规划-二维-困难 Dynamic-Programming | |
 | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | [136.md](solutions/136.md) | 位运算-简单 Bit-Manipulation | |
 | [137. Single Number II](https://leetcode.com/problems/single-number-ii/) | Medium | [137.md](solutions/137.md) | 位运算-中等 | |
 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [138.md](solutions/138.md) | 链表-单链表-中等 | 新旧结点穿插 |
