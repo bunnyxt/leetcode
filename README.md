@@ -221,6 +221,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | [547.md](solutions/547.md) | Union-Find | |
 | [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | Easy | [563.md](solutions/563.md) | | |
 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | [572.md](solutions/572.md) | Tree | |
+| [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | Medium | [583.md](solutions/583.md) | Dynamic-Programming | |
 | [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | Easy | [589.md](solutions/589.md) | 树-遍历-简单 | |
 | [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | Easy | [590.md](solutions/590.md) | 树-遍历-简单 | |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | [617.md](solutions/617.md) | 树-路径 \| 深度 \| 翻转-简单 | |
