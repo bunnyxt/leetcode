@@ -228,6 +228,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) | Medium | [636.md](solutions/636.md) | 栈-基础栈-中等 | |
 | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | Medium | [662.md](solutions/662.md) | 树-路径 \| 深度 \| 翻转-中等 | |
 | [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | Hard | [668.md](solutions/668.md) | Binary-Search | TBR |
+| [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/remove-element/) | Medium | [673.md](solutions/673.md) | Dynamic-Programming | TBR |
 | [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | [682.md](solutions/682.md) | 栈-基础栈-简单 | |
 | [695. Max Area of Island](https://leetcode.com/problems/remove-element/) | Medium | [695.md](solutions/695.md) | 图论-DFS-中等 DFS,BFS,Union-Find | |
 | [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | Easy | [696.md](solutions/696.md) | | |
