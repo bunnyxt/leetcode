@@ -20,11 +20,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 
 ## Python刷题实用技巧
 
-虽然本人之前参加算法竞赛都是用的C/C++，个人主要职业方向是前端/全栈开发，但考虑到自己之前对Python的熟练度较高（不希望因为语言的熟练度不够从而影响刷题效率，刚准备刷题的时候手头确实Python熟练很多），再加上Python语言本身的一些很诱人的特性，个人觉得很适合拿Python来刷LeetCode，因此初刷使用的语言是Python。这里总结了一些刷题时会用到的Python技巧，包括：
-
-```
-// TODO  整理一些Python技巧，主要涉及到排序、数据结构、字符串处理、数组（列表）构建与初始化等，放在skills/python中
-```
+虽然本人之前参加算法竞赛都是用的C/C++，个人主要职业方向是前端/全栈开发，但考虑到自己之前对Python的熟练度较高（不希望因为语言的熟练度不够从而影响刷题效率，刚准备刷题的时候手头确实Python熟练很多），再加上Python语言本身的一些很诱人的特性，个人觉得很适合拿Python来刷LeetCode，因此初刷使用的语言是Python。这里整理了一些刷题时会用到的Python技巧，编成[Python刷题Cheat Sheet](cheatsheets/python.md)，供参考。
 
 ## JavaScript不比Python差
 
