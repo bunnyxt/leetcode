@@ -6,6 +6,8 @@
 
 整除：`a // b`，等价于`math.floor(a / b)`，返回最大的不超过`a / b`的整数
 
+带余数除：`quotient, remainder = divmod(a, b)`
+
 获取比其他数都大的值：`math.inf`，是`float`类型
 
 获取比其他数都小的值：`-math.inf`，是`float`类型
