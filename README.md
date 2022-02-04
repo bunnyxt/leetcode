@@ -144,6 +144,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | [160.md](solutions/160.md) | 链表-双链表-简单 | 串接双链表 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [169.md](solutions/169.md) | | Boyer-Moore Voting Algorithm |
 | [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | [173.md](solutions/173.md) | 树-二叉搜索树-中等 | 栈 |
+| [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/) | Hard | [174.md](solutions/174.md) | Dynamic-Programming | |
 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | [190.md](solutions/190.md) | 位运算-简单 Bit-Manipulation,Divide-and-Conquer | |
 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | [191.md](solutions/191.md) | 位运算-简单 Bit-Manipulation | |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | [198.md](solutions/198.md) | Dynamic-Programming | |
