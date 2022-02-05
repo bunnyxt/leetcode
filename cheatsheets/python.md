@@ -26,6 +26,8 @@
 
 四舍五入取整：`round(x)`
 
+求绝对值：`abs(x)`
+
 ## 切片
 
 `[start : stop : steps]`，可用在字符串、列表、元组上，“左闭右开”
@@ -101,6 +103,8 @@
 从`0`到`n - 1`：`for i in range(n):`
 
 从`n - 1`到`0`：`for i in range(n - 1, -1, -1):`，或者直接翻转`for i in reversed(range(n)):`
+
+带下标遍历：`for idx, num in enumerate(nums):`，`idx`默认从`0`开始递增，可通过`enumerate(nums, start)`第二个参数指定起始坐标
 
 ## 排序
 
