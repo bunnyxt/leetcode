@@ -279,6 +279,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | Hard | [1463.md](solutions/1463.md) | Dynamic-Programming | |
 | [1567. Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | Medium | [1567.md](solutions/1567.md) | | |
 | [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | Medium | [1669.md](solutions/1669.md) | 链表-双链表-中等 | |
+| [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | Medium | [1721.md](solutions/1721.md) | Two-Pointers | |
 | [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | Easy | [1935.md](solutions/1935.md) | | |
 
 *：按照`xx-yy-zz`格式标注的分类标准，出自[Leetcode-retag](reference/Leetcode-retag.md)这里；其他的以分号分隔Tag（例如`xx,yy,zz`）的分类则是自己的补充
