@@ -249,6 +249,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium | [889.md](solutions/889.md) | 树-构造-中等 | 前序后序创建 |
 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | [907.md](solutions/907.md) | 栈-单调栈-中等 | 单调栈详解 |
 | [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | [918.md](solutions/918.md) | | Kadane's Algorithm |
+| [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | Medium | [923.md](solutions/923.md) | Two-Pointers | |
 | [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | [931.md](solutions/931.md) | Dynamic-Programming | |
 | [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | Medium | [934.md](solutions/934.md) | Depth-First-Search Breadth-First-Search | |
 | [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | Hard | [952.md](solutions/952.md) | Union-Find | |
