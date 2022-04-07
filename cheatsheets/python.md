@@ -100,7 +100,15 @@
 
 ## 堆
 
-// TODO heap
+构建堆：`heapq.heapify(l)`，`l`是一个`list`，注意构建的是最小堆，且时间复杂度为`O(n)`
+
+获取堆顶元素：`heapq.heappop(heap)`，`heap`是经过`heapify`的`list`，下同；因为构建的是最小堆，因此返回的是最小值；此操作会导致堆顶元素出堆，若只想检查堆顶元素，使用`heap[0]`
+
+向堆内添加元素：`heapq.heappush(heap, item)`，添加完成后`heap`依旧保持堆结构
+
+堆顶元素出堆且向堆内添加元素：`heapq.heapreplace(heap, item)`，比单独先执行`pop`再执行`push`效率更高，很适合用于维护固定大小的堆
+
+返回可遍历集合中最大的`n`个元素：`heapq.nlargest(n, iterable, key=None)`，与`sorted(iterable, key=key, reverse=True)[:n]`等价；同理还有返回最小的`n`个元素：`heapq.nsmallest(n, iterable, key=None)`；以上两个方法基于固定大小的堆来实现，在`n`较小时效率更高，对于较大的`n`依旧考虑使用`sorted`
 
 ## 循环
 
