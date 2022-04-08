@@ -106,9 +106,53 @@
 
 向堆内添加元素：`heapq.heappush(heap, item)`，添加完成后`heap`依旧保持堆结构
 
-堆顶元素出堆且向堆内添加元素：`heapq.heapreplace(heap, item)`，比单独先执行`pop`再执行`push`效率更高，很适合用于维护固定大小的堆
+向堆内添加元素后堆顶元素出堆：`heapq.heappushpop(heap, item)`，比单独先执行`push`再执行`pop`效率更高
+
+堆顶元素出堆且向堆内添加元素：`heapq.heapreplace(heap, item)`，比单独先执行`pop`再执行`push`效率更高
 
 返回可遍历集合中最大的`n`个元素：`heapq.nlargest(n, iterable, key=None)`，与`sorted(iterable, key=key, reverse=True)[:n]`等价；同理还有返回最小的`n`个元素：`heapq.nsmallest(n, iterable, key=None)`；以上两个方法基于固定大小的堆来实现，在`n`较小时效率更高，对于较大的`n`依旧考虑使用`sorted`
+
+拓展：维护自定义对象元素堆，只需要实现自定义对象的`__lt__(self, other)`魔法函数即可
+
+<details>
+    <summary>例：维护自定义对象元素堆</summary>
+
+    [LeetCode 692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+
+    ```python
+    from collections import Counter
+    import heapq
+
+
+    class Element:
+        def __init__(self, count, word):
+            self.count = count
+            self.word = word
+
+        def __lt__(self, other):
+            if self.count == other.count:
+                return self.word > other.word
+            return self.count < other.count
+
+
+    class Solution():
+        def topKFrequent(self, words: List[str], k: int) -> List[str]:
+            counter = Counter(words)
+
+            heap = []
+            for word, count in counter.items():
+                element = Element(count, word)
+                if len(heap) < k:
+                    heapq.heappush(heap, element)
+                elif element > heap[0]:
+                    heapq.heappushpop(heap, element)
+
+            results = []
+            for _ in range(k):
+                results.append(heapq.heappop(heap).word)
+            return results[::-1]
+    ```
+</details>
 
 ## 循环
 
