@@ -193,6 +193,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Medium | [371.md](solutions/371.md) | 位运算-中等 Bit-Manipulation | |
 | [376. Wiggle Subsequence](https://leetcode.com/problems/remove-element/) | Medium | [376.md](solutions/376.md) | Dynamic-Programming | |
 | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium | [377.md](solutions/377.md) | Dynamic-Programming | |
+| [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium | [378.md](solutions/378.md) | 堆-中等 Heap | 元组封装后`heapq` |
 | [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | Medium | [382.md](solutions/382.md) | | Reservoir Sampling |
 | [385. Mini Parser](https://leetcode.com/problems/mini-parser/) | Medium | [385.md](solutions/385.md) | 栈-基础栈-中等 | |
 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy | [389.md](solutions/389.md) | 位运算-简单 Bit-Manipulation | |
