@@ -233,6 +233,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | [682.md](solutions/682.md) | 栈-基础栈-简单 | |
 | [695. Max Area of Island](https://leetcode.com/problems/remove-element/) | Medium | [695.md](solutions/695.md) | 图论-DFS-中等 DFS,BFS,Union-Find | |
 | [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | Easy | [696.md](solutions/696.md) | | |
+| [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | [703.md](solutions/703.md) | 堆-简单 Heap | |
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | Medium | [707.md](solutions/707.md) | 链表-单链表-中等 | |
 | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium | [714.md](solutions/714.md) | | TBR |
 | [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium | [725.md](solutions/725.md) | 链表-单链表-中等 | |
