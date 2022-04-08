@@ -153,7 +153,6 @@
           return results[::-1]
 ```
 </details>
-<br/>
 
 拓展：更方便的封装，基于元组，`(value, info1, info2)`
 
@@ -183,7 +182,6 @@
           return value
   ```
 </details>
-<br/>
 
 ## 循环
 
