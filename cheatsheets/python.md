@@ -115,43 +115,43 @@
 拓展：维护自定义对象元素堆，只需要实现自定义对象的`__lt__(self, other)`魔法函数即可
 
 <details>
-    <summary>例：维护自定义对象元素堆</summary>
+  <summary>例：维护自定义对象元素堆</summary>
 
-    [LeetCode 692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+  [LeetCode 692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 
-    ```python
-    from collections import Counter
-    import heapq
-
-
-    class Element:
-        def __init__(self, count, word):
-            self.count = count
-            self.word = word
-
-        def __lt__(self, other):
-            if self.count == other.count:
-                return self.word > other.word
-            return self.count < other.count
+  ```python
+  from collections import Counter
+  import heapq
 
 
-    class Solution():
-        def topKFrequent(self, words: List[str], k: int) -> List[str]:
-            counter = Counter(words)
+  class Element:
+      def __init__(self, count, word):
+          self.count = count
+          self.word = word
 
-            heap = []
-            for word, count in counter.items():
-                element = Element(count, word)
-                if len(heap) < k:
-                    heapq.heappush(heap, element)
-                elif element > heap[0]:
-                    heapq.heappushpop(heap, element)
+      def __lt__(self, other):
+          if self.count == other.count:
+              return self.word > other.word
+          return self.count < other.count
 
-            results = []
-            for _ in range(k):
-                results.append(heapq.heappop(heap).word)
-            return results[::-1]
-    ```
+
+  class Solution():
+      def topKFrequent(self, words: List[str], k: int) -> List[str]:
+          counter = Counter(words)
+
+          heap = []
+          for word, count in counter.items():
+              element = Element(count, word)
+              if len(heap) < k:
+                  heapq.heappush(heap, element)
+              elif element > heap[0]:
+                  heapq.heappushpop(heap, element)
+
+          results = []
+          for _ in range(k):
+              results.append(heapq.heappop(heap).word)
+          return results[::-1]
+```
 </details>
 
 ## 循环
