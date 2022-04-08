@@ -153,6 +153,37 @@
           return results[::-1]
 ```
 </details>
+<br/>
+
+拓展：更方便的封装，基于元组，`(value, info1, info2)`
+
+<details>
+  <summary>例：维护元组对象元素堆</summary>
+
+  [LeetCode 378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+
+  ```python
+  import heapq
+  
+  class Solution:
+      def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
+          n = len(matrix)
+          
+          heap = []
+          for row in range(min(k, n)):
+              heap.append((matrix[row][0], row, 0))
+          heapq.heapify(heap)
+          
+          while k:
+              value, row, col = heapq.heappop(heap)
+              if col < n - 1:
+                  heapq.heappush(heap, (matrix[row][col + 1], row, col + 1))
+              k -= 1
+          
+          return value
+  ```
+</details>
+<br/>
 
 ## 循环
 
