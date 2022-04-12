@@ -84,7 +84,18 @@
 
 遍历字典：`for key, val in d.items():`
 
-// TODO defaultdict
+获取字典某个键的值：`d.get(key, default_val)`，当`key`不存在时返回`default_val`，避免报错
+
+带默认值的字典：`from collections import defaultdict`，创建时接受一个函数作为参数，该函数用于生成，当访问的键不存在时该键的默认值，例：`dd = defaultdict(list)`、`dd = defaultdict(lamnda: 1)`
+
+计数器：`from collections import Counter`，类似`defaultdict(int)`，且`Counter`对象支持`+`、`-`、`&`、`|`操作，类似`set`，也可以直接通过`c = Counter(l)`生成，返回`{ key1: count1, ... }`这样的结构
+
+// TODO sor
+
+// TODO filter via
+
+// TODO get
+
 
 ## 集合
 
