@@ -178,6 +178,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [268.md](solutions/268.md) | 位运算-简单 Bit-Manipulation | |
 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [279.md](solutions/279.md) | 图论-BFS-中等 动态规划-一维-中等 Dynamic-Programming | |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [283.md](solutions/283.md) | 双指针-简单 Two-Pointers | |
+| [289. Game of Life](https://leetcode.com/problems/game-of-life/) | Medium | [289.md](solutions/289.md) | | |
 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | [297.md](solutions/297.md) | 树-构造-困难 | |
 | [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium | [304.md](solutions/304.md) | | |
 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Medium | [309.md](solutions/309.md) | 动态规划-一维-中等 Dynamic-Programming | TBR |
