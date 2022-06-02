@@ -67,6 +67,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | [45.md](solutions/45.md) | Greedy | |
 | [46. Permutations](https://leetcode.com/problems/permutations/) | Medium | [46.md](solutions/46.md) | 回溯-中等 | |
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | [47.md](solutions/47.md) | 回溯-中等 | |
+| [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [48.md](solutions/48.md) | 矩阵-中等 | |
 | [51. N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [51.md](solutions/51.md) | 回溯-困难 Backtracking | |
 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | [52.md](solutions/52.md) | Backtracking | |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [53.md](solutions/53.md) | 动态规划-一维-简单 | Kadane's Algorithm |
