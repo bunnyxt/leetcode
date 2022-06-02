@@ -71,6 +71,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [51. N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [51.md](solutions/51.md) | 回溯-困难 Backtracking | |
 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | [52.md](solutions/52.md) | Backtracking | |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [53.md](solutions/53.md) | 动态规划-一维-简单 | Kadane's Algorithm |
+| [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [54.md](solutions/54.md) | 矩阵-中等 | |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [55.md](solutions/55.md) | Greedy | |
 | [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | [59.md](solutions/59.md) | 矩阵-中等 | |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [61.md](solutions/61.md) | 链表-单链表-中等 | |
