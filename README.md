@@ -251,6 +251,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [842. Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | Medium | [842.md](solutions/842.md) | 回溯-中等 | |
 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | [844.md](solutions/844.md) | 栈-基础栈-简单 Two-Pointers | |
 | [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Medium | [856.md](solutions/856.md) | 栈-基础栈-中等 | |
+| [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Easy | [867.md](solutions/867.md) | 矩阵-简单 | |
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [876.md](solutions/876.md) | 链表-单链表-简单 | |
 | [889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium | [889.md](solutions/889.md) | 树-构造-中等 | 前序后序创建 |
 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | [907.md](solutions/907.md) | 栈-单调栈-中等 | 单调栈详解 |
