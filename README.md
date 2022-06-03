@@ -296,6 +296,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | Medium | [1669.md](solutions/1669.md) | 链表-双链表-中等 | |
 | [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | Medium | [1721.md](solutions/1721.md) | Two-Pointers | |
 | [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | Easy | [1935.md](solutions/1935.md) | | |
+| [2178. Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/) | Medium | [2178.md](solutions/2178.md) | Greedy | |
 
 *：按照`xx-yy-zz`格式标注的分类标准，出自[Leetcode-retag](reference/Leetcode-retag.md)这里；其他的以分号分隔Tag（例如`xx,yy,zz`）的分类则是自己的补充
 
