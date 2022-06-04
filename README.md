@@ -194,6 +194,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [338.md](solutions/338.md) | 位运算-简单 动态规划-一维-简单 Bit-Manipulation,Dynamic-Programming | |
 | [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | Medium | [341.md](solutions/341.md) | 栈-基础栈-中等 | |
 | [343. Integer Break](https://leetcode.com/problems/integer-break/) | Medium | [343.md](solutions/343.md) | Dynamic-Programming | |
+| [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [344.md](solutions/344.md) | 双指针与滑动窗口-简单 Two-Pointers | |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [347.md](solutions/347.md) | 堆-中等 Heap | |
 | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | [368.md](solutions/368.md) | Dynamic-Programming | |
 | [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Medium | [371.md](solutions/371.md) | 位运算-中等 Bit-Manipulation | |
