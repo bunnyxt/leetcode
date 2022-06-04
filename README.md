@@ -78,6 +78,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [62.md](solutions/62.md) | 动态规划-二维-中等 Dynamic-Programming | |
 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | [63.md](solutions/63.md) | Dynamic-Programming | |
 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [64.md](solutions/64.md) | 动态规划-二维-中等 Dynamic-Programming | |
+| [68. Text Justification](https://leetcode.com/problems/text-justification/) | Hard | [68.md](solutions/68.md) | | |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [70.md](solutions/70.md) | 动态规划-一维-简单 Dynamic-Programming | |
 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | [71.md](solutions/71.md) | 栈-基础栈-中等 | |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [72.md](solutions/72.md) | 动态规划-二维-困难 Dynamic-Programming | |
