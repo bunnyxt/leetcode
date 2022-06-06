@@ -252,6 +252,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [739.md](solutions/739.md) | 栈-单调栈-中等 | |
 | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | Medium | [740.md](solutions/740.md) | Dynamic-Programming | |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | [746.md](solutions/746.md) | 动态规划-一维-简单 Recursion,Memoization,Dynamic-Programming | |
+| [751. IP to CIDR](https://leetcode.com/problems/ip-to-cidr/) | Medium | [751.md](solutions/751.md) | Bit-Manipulation | |
 | [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | Medium | [790.md](solutions/790.md) | Dynamic-Programming | |
 | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | Medium | [797.md](solutions/797.md) | | |
 | [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | Easy | [832.md](solutions/832.md) | 矩阵-简单 | |
