@@ -92,6 +92,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | [84.md](solutions/84.md) | 栈-单调栈-困难 Monotonic-Stack | |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | [85.md](solutions/85.md) | 栈-单调栈-困难 Monotonic-Stack | |
 | [86. Partition List](https://leetcode.com/problems/partition-list/) | Medium | [86.md](solutions/86.md) | 链表-单链表-中等 | |
+| [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [88.md](solutions/88.md) | 双指针与滑动窗口-简单 | 逆序归并 |
 | [89. Gray Code](https://leetcode.com/problems/gray-code/) | Medium | [89.md](solutions/89.md) | 回溯-中等 位运算-中等 Backtracking,Bit-Manipulation | |
 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | [90.md](solutions/90.md) | 回溯-中等 | |
 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium | [91.md](solutions/91.md) | Dynamic-Programming | |
