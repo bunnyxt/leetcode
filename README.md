@@ -246,6 +246,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | [700.md](solutions/700.md) | Binary-Search-Tree | |
 | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | [703.md](solutions/703.md) | 堆-简单 Heap | |
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | Medium | [707.md](solutions/707.md) | 链表-单链表-中等 | |
+| [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | Medium | [713.md](solutions/713.md) | 双指针与滑动窗口-中等 | |
 | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium | [714.md](solutions/714.md) | | TBR |
 | [722. Remove Comments](https://leetcode.com/problems/remove-comments/) | Medium | [722.md](solutions/722.md) | | |
 | [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium | [725.md](solutions/725.md) | 链表-单链表-中等 | |
