@@ -207,6 +207,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | Medium | [382.md](solutions/382.md) | | Reservoir Sampling |
 | [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | Medium | [384.md](solutions/384.md) | | Fisher-Yates Algorithm |
 | [385. Mini Parser](https://leetcode.com/problems/mini-parser/) | Medium | [385.md](solutions/385.md) | 栈-基础栈-中等 | |
+| [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | [387.md](solutions/387.md) | | |
 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy | [389.md](solutions/389.md) | 位运算-简单 Bit-Manipulation | |
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [392.md](solutions/392.md) | Two-Pointers,Dynamic-Programming | |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [394.md](solutions/394.md) | 栈-基础栈-中等 | |
