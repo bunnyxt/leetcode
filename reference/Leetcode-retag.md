@@ -366,7 +366,6 @@
 
 - [349. 两个数组的交集](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [217. 存在重复元素](https://leetcode.com/problems/contains-duplicate/)
-- [204. 计数质数](https://leetcode.com/problems/count-primes/)
 - [88. 合并两个有序数组](https://leetcode.com/problems/merge-sorted-array/)
 - [283. 移动零](https://leetcode.com/problems/move-zeroes/)
 - [125. 验证回文串](https://leetcode.com/problems/valid-palindrome/)
@@ -609,7 +608,6 @@
 
 ##### 简单
 
-- [204. 计数质数](https://leetcode.com/problems/count-primes/)
 - [628. 三个数的最大乘积](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [976. 三角形的最大周长](https://leetcode.com/problems/largest-perimeter-triangle/)
 - [202. 快乐数](https://leetcode.com/problems/happy-number/)
@@ -617,6 +615,7 @@
 
 ###### 中等
 
+- [204. 计数质数](https://leetcode.com/problems/count-primes/)
 - [29. 两数相除](https://leetcode.com/problems/divide-two-integers/)
 - [343. 整数拆分](https://leetcode.com/problems/integer-break/)
 - [166. 分数到小数](https://leetcode.com/problems/fraction-to-recurring-decimal/)
