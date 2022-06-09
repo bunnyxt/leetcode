@@ -199,6 +199,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [343. Integer Break](https://leetcode.com/problems/integer-break/) | Medium | [343.md](solutions/343.md) | Dynamic-Programming | |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [344.md](solutions/344.md) | 双指针与滑动窗口-简单 Two-Pointers | |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [347.md](solutions/347.md) | 堆-中等 Heap | |
+| [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | [349.md](solutions/349.md) | 双指针与滑动窗口-简单 Two-Pointers | |
 | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | [368.md](solutions/368.md) | Dynamic-Programming | |
 | [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Medium | [371.md](solutions/371.md) | 位运算-中等 Bit-Manipulation | |
 | [376. Wiggle Subsequence](https://leetcode.com/problems/remove-element/) | Medium | [376.md](solutions/376.md) | Dynamic-Programming | |
