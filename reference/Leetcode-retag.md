@@ -364,7 +364,6 @@
 
 ###### 简单
 
-- [387. 字符串中的第一个唯一字符](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [349. 两个数组的交集](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [409. 最长回文串](https://leetcode.com/problems/longest-palindrome/)
 - [217. 存在重复元素](https://leetcode.com/problems/contains-duplicate/)
