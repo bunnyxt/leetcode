@@ -212,6 +212,16 @@
 
 // TODO key
 
+## 随机数
+
+`import random`
+
+从`a`到`b`中随机返回一个整数：`random.randint(a, b)`，闭区间
+
+从序列中`seq`随机返回一个元素：`random.choice(seq)`，如果`seq`为空会报错
+
+从`[0.0, 1.0)`中随机返回一个浮点数：`random.random()`
+
 ## 函数工具
 
 // TODO lru_cache
