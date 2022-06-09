@@ -162,6 +162,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Easy | [201.md](solutions/201.md) | Bit-Manipulation | |
 | [202. Happy Number](https://leetcode.com/problems/happy-number/) | Easy | [202.md](solutions/202.md) | 数学-简单 | |
 | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | [203.md](solutions/203.md) | 链表-单链表-简单 | |
+| [204. Count Primes](https://leetcode.com/problems/count-primes/) | Medium | [204.md](solutions/204.md) | 数学-中等 | |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [206.md](solutions/206.md) | 链表-单链表-简单 | |
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) |  Medium | [207.md](solutions/207.md) | 图论-拓扑排序-中等 Graph,DFS,Topological-Sort  | |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) |  Medium | [209.md](solutions/209.md) | Sliding-Window | |
