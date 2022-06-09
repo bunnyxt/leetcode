@@ -149,6 +149,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | [152.md](solutions/152.md) | 动态规划-一维-中等 | Kadane's Algorithm |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Easy | [155.md](solutions/155.md) | 栈-基础栈-简单 | |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | [160.md](solutions/160.md) | 链表-双链表-简单 | 串接双链表 |
+| [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | [162.md](solutions/162.md) | 二分查找-中等 | `[m, m + 1]`空间必在`[l, r]`中 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [169.md](solutions/169.md) | | Boyer-Moore Voting Algorithm |
 | [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | [173.md](solutions/173.md) | 树-二叉搜索树-中等 | 栈 |
 | [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/) | Hard | [174.md](solutions/174.md) | Dynamic-Programming | |
