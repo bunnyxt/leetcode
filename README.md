@@ -42,6 +42,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | --- | --- | --- | --- | --- |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [1.md](solutions/1.md) | Hash-Table | |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [2.md](solutions/2.md) | 链表-双链表-中等 | |
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [3.md](solutions/3.md) | 双指针与滑动窗口-中等 Sliding-Window | |
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [5.md](solutions/5.md) | 动态规划-二维-中等 Dynamic-Programming | TBR |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [11.md](solutions/11.md) | 双指针与滑动窗口-中等 Two-Pointers | |
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | [15.md](solutions/15.md) | Two-Pointers | |
