@@ -56,6 +56,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [23.md](solutions/23.md) | 链表-双链表-困难 | |
 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | [24.md](solutions/24.md) | 链表-单链表-中等 | |
 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | [25.md](solutions/25.md) | 链表-单链表-困难 | |
+| [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [27.md](solutions/27.md) | 双指针与滑动窗口-简单 | |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [33.md](solutions/33.md) | 二分查找-中等 Binary-Search | |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [34.md](solutions/34.md) | 二分查找-中等 Binary-Search | |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [35.md](solutions/35.md) | 二分查找-简单 | |
