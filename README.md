@@ -285,6 +285,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | Medium | [945.md](solutions/945.md) | Greedy | |
 | [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | Hard | [952.md](solutions/952.md) | Union-Find | |
 | [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Easy | [961.md](solutions/961.md) | | |
+| [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [977.md](solutions/977.md) | 双指针与滑动窗口 Two-Pointers | 从大到小构建 |
 | [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | Hard | [980.md](solutions/980.md) | Backtracking | |
 | [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Medium | [986.md](solutions/986.md) | Two-Pointers | |
 | [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | [1008.md](solutions/1008.md) | 树-构造-中等 | |
