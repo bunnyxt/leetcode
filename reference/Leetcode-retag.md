@@ -376,7 +376,6 @@
 ###### 中等
 
 - [3. 无重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [781. 森林中的兔子](https://leetcode.com/problems/rabbits-in-forest/)
 - [49. 字母异位词分组](https://leetcode.com/problems/group-anagrams/)
 - [18. 四数之和](https://leetcode.com/problems/4sum/)
 - [560. 和为 K 的子数组](https://leetcode.com/problems/subarray-sum-equals-k/)
@@ -569,6 +568,7 @@
 - [767. 重构字符串](https://leetcode.com/problems/reorganize-string/)
 - [373. 查找和最小的 K 对数字](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 - [313. 超级丑数](https://leetcode.com/problems/super-ugly-number/)
+- [781. 森林中的兔子](https://leetcode.com/problems/rabbits-in-forest/)
 
 
 ## 𐀴 回溯
