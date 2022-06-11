@@ -376,7 +376,6 @@
 ###### 中等
 
 - [3. 无重复字符的最长子串](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [49. 字母异位词分组](https://leetcode.com/problems/group-anagrams/)
 - [18. 四数之和](https://leetcode.com/problems/4sum/)
 - [560. 和为 K 的子数组](https://leetcode.com/problems/subarray-sum-equals-k/)
 - [454. 四数相加 II](https://leetcode.com/problems/4sum-ii/)
