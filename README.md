@@ -296,6 +296,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Medium | [1026.md](solutions/1026.md) | | |
 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | [1046.md](solutions/1046.md) | 堆-简单 Heap,Counting-Sort | |
 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | [1047.md](solutions/1047.md) | 栈-基础栈-简单 | |
+| [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | Medium | [1048.md](solutions/1048.md) | | |
 | [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) | Medium | [1094.md](solutions/1094.md) | | |
 | [1124. Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | Medium | [1124.md](solutions/1124.md) | 栈-单调栈-中等 | 核心思路与单调栈无关 |
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | [1137.md](solutions/1137.md) | Recursion,Memoization,Dynamic-Programming | |
