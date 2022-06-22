@@ -381,7 +381,6 @@
 - [454. 四数相加 II](https://leetcode.com/problems/4sum-ii/)
 - [11. 盛最多水的容器](https://leetcode.com/problems/container-with-most-water/)
 - [16. 最接近的三数之和](https://leetcode.com/problems/3sum-closest/)
-- [18. 四数之和](https://leetcode.com/problems/4sum/)
 - [424. 替换后的最长重复字符](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [713. 乘积小于K的子数组](https://leetcode.com/problems/subarray-product-less-than-k/)
 
