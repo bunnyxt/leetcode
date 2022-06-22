@@ -242,6 +242,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | [540.md](solutions/540.md) | Binary-Search | |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [543.md](solutions/543.md) | 树-路径 \| 深度 \| 翻转-简单 | TBR |
 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | [547.md](solutions/547.md) | Union-Find | |
+| [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | [560.md](solutions/560.md) | Prefix-Sum | |
 | [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | Easy | [563.md](solutions/563.md) | | |
 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | [572.md](solutions/572.md) | Tree | |
 | [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | Medium | [583.md](solutions/583.md) | Dynamic-Programming | |
