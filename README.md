@@ -222,6 +222,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | [402.md](solutions/402.md) | 栈-单调栈-中等 | 剩余数字单调递增 |
 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | [404.md](solutions/404.md) | | |
 | [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | Easy | [405.md](solutions/405.md) | 位运算-简单 Bit-Manipulation | |
+| [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | Medium | [406.md](solutions/406.md) | Greedy | |
 | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | [409.md](solutions/409.md) | | |
 | [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | Medium | [413.md](solutions/413.md) | | |
 | [423. Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | Medium | [423.md](solutions/423.md) | | 奥数题 |
