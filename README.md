@@ -132,6 +132,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | [124.md](solutions/124.md) | 树-路径 \| 深度 \| 翻转-困难 | 递归子问题返回值设计 |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [125.md](solutions/125.md) | 双指针与滑动窗口-简单 Two-Pointers | |
 | [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | Hard | [126.md](solutions/126.md) | 回溯-困难 | BFS构建DAG |
+| [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [128.md](solutions/128.md) | | |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | [129.md](solutions/129.md) | 树-路径 \| 深度 \| 翻转-中等 | |
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | [130.md](solutions/130.md) | 图论-DFS-中等 DFS,BFS,Union-Find | |
 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium | [131.md](solutions/131.md) | 动态规划-二维-中等 Dynamic-Programming,DFS | |
