@@ -194,6 +194,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [260. Single Number III](https://leetcode.com/problems/single-number-iii/) | Medium | [260.md](solutions/260.md) | 位运算-中等 Bit-Manipulation | `x & (-x)`提取最右侧的`1` |
 | [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | Medium | [264.md](solutions/264.md) | 贪心-中等 动态规划-一维-中等 Dynamic-Programming | |
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [268.md](solutions/268.md) | 位运算-简单 Bit-Manipulation | |
+| [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | [271.md](solutions/271.md) | | |
 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [279.md](solutions/279.md) | 图论-BFS-中等 动态规划-一维-中等 Dynamic-Programming | |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [283.md](solutions/283.md) | 双指针-简单 Two-Pointers | |
 | [289. Game of Life](https://leetcode.com/problems/game-of-life/) | Medium | [289.md](solutions/289.md) | | |
