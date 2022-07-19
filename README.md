@@ -60,6 +60,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [33.md](solutions/33.md) | 二分查找-中等 Binary-Search | |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [34.md](solutions/34.md) | 二分查找-中等 Binary-Search | |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [35.md](solutions/35.md) | 二分查找-简单 | |
+| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [36.md](solutions/36.md) | | |
 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | [37.md](solutions/37.md) | 回溯-困难 | |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [39.md](solutions/39.md) | 回溯-中等 | |
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | [40.md](solutions/40.md) | 回溯-中等 | |
