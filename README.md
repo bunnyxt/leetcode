@@ -230,6 +230,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | [409.md](solutions/409.md) | | |
 | [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | Medium | [413.md](solutions/413.md) | | |
 | [423. Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | Medium | [423.md](solutions/423.md) | | 奥数题 |
+| [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | [424.md](solutions/424.md) | Sliding-Window | TBR |
 | [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | Medium | [430.md](solutions/430.md) | 链表-单链表-中等 | |
 | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Medium | [437.md](solutions/437.md) | 树-路径 \| 深度 \| 翻转-中等 | 记忆化 |
 | [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | [438.md](solutions/438.md) | Sliding-Window |
