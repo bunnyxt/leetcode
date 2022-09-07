@@ -284,6 +284,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/) | Medium | [781.md](solutions/781.md) | 贪心-中等 Greedy | |
 | [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | Medium | [790.md](solutions/790.md) | Dynamic-Programming | |
 | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | Medium | [797.md](solutions/797.md) | | |
+| [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | Medium | [814.md](solutions/814.md) | | Depth-First-Search |
 | [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | Easy | [832.md](solutions/832.md) | 矩阵-简单 | |
 | [842. Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | Medium | [842.md](solutions/842.md) | 回溯-中等 | |
 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | [844.md](solutions/844.md) | 栈-基础栈-简单 Two-Pointers | |
