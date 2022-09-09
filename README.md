@@ -269,6 +269,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | [680.md](solutions/680.md) | Two-Pointers | |
 | [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | [682.md](solutions/682.md) | 栈-基础栈-简单 | |
 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | [692.md](solutions/692.md) | 栈-中等 Heap | 构造实现了`__lt__`的对象后`heapq` |
+| [694. Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/) | Medium | [694.md](solutions/694.md) | DFS,BFS,Union-Find | |
 | [695. Max Area of Island](https://leetcode.com/problems/remove-element/) | Medium | [695.md](solutions/695.md) | 图论-DFS-中等 DFS,BFS,Union-Find | |
 | [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | Easy | [696.md](solutions/696.md) | | |
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | [700.md](solutions/700.md) | Binary-Search-Tree | |
