@@ -302,6 +302,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | Medium | [934.md](solutions/934.md) | Depth-First-Search Breadth-First-Search | |
 | [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | Medium | [937.md](solutions/937.md) | | |
 | [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | Medium | [945.md](solutions/945.md) | Greedy | |
+| [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | Medium | [948.md](solutions/948.md) | Greedy | |
 | [952. Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | Hard | [952.md](solutions/952.md) | Union-Find | |
 | [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Easy | [961.md](solutions/961.md) | | |
 | [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | Medium | [967.md](solutions/967.md) | Backtracking | |
