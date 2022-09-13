@@ -222,6 +222,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | [387.md](solutions/387.md) | | |
 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy | [389.md](solutions/389.md) | 位运算-简单 Bit-Manipulation | |
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [392.md](solutions/392.md) | Two-Pointers,Dynamic-Programming | |
+| [393. UTF-8 Validation](https://leetcode.com/problems/remove-element/) | Medium | [393.md](solutions/393.md) | Bit-Manipulation | |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [394.md](solutions/394.md) | 栈-基础栈-中等 | |
 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | [402.md](solutions/402.md) | 栈-单调栈-中等 | 剩余数字单调递增 |
 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | [404.md](solutions/404.md) | | |
