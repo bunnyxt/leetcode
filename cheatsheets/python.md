@@ -90,7 +90,13 @@
 
 带默认值的字典：`from collections import defaultdict`，创建时接受一个函数作为参数，该函数用于生成，当访问的键不存在时该键的默认值，例：`dd = defaultdict(list)`、`dd = defaultdict(lamnda: 1)`
 
-计数器：`from collections import Counter`，类似`defaultdict(int)`，且`Counter`对象支持`+`、`-`、`&`、`|`操作，类似`set`，也可以直接通过`c = Counter(l)`生成，返回`{ key1: count1, ... }`这样的结构
+计数器：`from collections import Counter`，类似`defaultdict(int)`，可以直接通过`c = Counter(l)`生成，返回`{ key1: count1, ... }`这样的结构；且`Counter`对象支持以下二元操作符：
+- `+`：相同key的value相加，`c[x] + d[x]`
+- `-`：相同key的value相减，`c[x] - d[x]`, 只保留正数值结果
+- `&`：取交集，`min(c[x], d[x])`
+- `|`：取并集，`max(c[x], d[x])`
+- `==`：相同key对应的value均相同时返回真，`c[x] == d[x]`
+- `<=`：包含，`c[x] <= d[x]`
 
 // TODO sor
 
