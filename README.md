@@ -229,6 +229,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | Easy | [405.md](solutions/405.md) | 位运算-简单 Bit-Manipulation | |
 | [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | Medium | [406.md](solutions/406.md) | Greedy | |
 | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | [409.md](solutions/409.md) | | |
+| [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [412.md](solutions/412.md) | | |
 | [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | Medium | [413.md](solutions/413.md) | | |
 | [423. Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | Medium | [423.md](solutions/423.md) | | 奥数题 |
 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | [424.md](solutions/424.md) | 双指针与滑动窗口-中等 Sliding-Window | TBR |
