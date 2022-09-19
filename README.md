@@ -261,6 +261,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | Easy | [589.md](solutions/589.md) | 树-遍历-简单 | |
 | [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | Easy | [590.md](solutions/590.md) | 树-遍历-简单 | |
 | [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | Easy | [606.md](solutions/606.md) | Depth-First-Search | |
+| [609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | Medium | [609.md](solutions/609.md) | | |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | [617.md](solutions/617.md) | 树-路径 \| 深度 \| 翻转-简单 | |
 | [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | Hard | [630.md](solutions/630.md) | Greedy,Heap | 堆辅助贪心 |
 | [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) | Medium | [636.md](solutions/636.md) | 栈-基础栈-中等 | |
