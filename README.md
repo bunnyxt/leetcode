@@ -199,6 +199,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [283.md](solutions/283.md) | 双指针-简单 Two-Pointers | |
 | [289. Game of Life](https://leetcode.com/problems/game-of-life/) | Medium | [289.md](solutions/289.md) | | |
 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | [297.md](solutions/297.md) | 树-构造-困难 | |
+| [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [300.md](solutions/300.md) | 动态规划-一维-中等 二分查找-中等 Dynamic-Programming,Binary-Search | Pacience Sorting |
 | [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium | [304.md](solutions/304.md) | | |
 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Medium | [309.md](solutions/309.md) | 动态规划-一维-中等 Dynamic-Programming | TBR |
 | [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | [310.md](solutions/310.md) | Tree | |
