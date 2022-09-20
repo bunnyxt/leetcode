@@ -282,6 +282,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | Medium | [707.md](solutions/707.md) | 链表-单链表-中等 | |
 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | Medium | [713.md](solutions/713.md) | 双指针与滑动窗口-中等 | |
 | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium | [714.md](solutions/714.md) | | TBR |
+| [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | Medium | [718.md](solutions/718.md) | 动态规划-二维-中等 Dynamic-Programming | |
 | [722. Remove Comments](https://leetcode.com/problems/remove-comments/) | Medium | [722.md](solutions/722.md) | | |
 | [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium | [725.md](solutions/725.md) | 链表-单链表-中等 | |
 | [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | Hard | [726.md](solutions/726.md) | 栈-基础栈-困难 | |
