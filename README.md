@@ -255,6 +255,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | [540.md](solutions/540.md) | Binary-Search | |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [543.md](solutions/543.md) | 树-路径 \| 深度 \| 翻转-简单 | TBR |
 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | [547.md](solutions/547.md) | Union-Find | |
+| [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | [557.md](solutions/557.md) | | |
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | [560.md](solutions/560.md) | Prefix-Sum | |
 | [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | Easy | [563.md](solutions/563.md) | | |
 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | [567.md](solutions/567.md) | Sliding-Window | |
