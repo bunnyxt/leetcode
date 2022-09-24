@@ -350,6 +350,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | [1658.md](solutions/1658.md) | Prefix-Sum,Two-Pointers,Sliding-Window | |
 | [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | Medium | [1642.md](solutions/1642.md) | Greedy,Heap | TBR |
 | [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | Medium | [1669.md](solutions/1669.md) | 链表-双链表-中等 | |
+| [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | Medium | [1680.md](solutions/1680.md) | Bit-Manipulation | |
 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium | [1689.md](solutions/1689.md) | | |
 | [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | Medium | [1695.md](solutions/1695.md) | Sliding-Window| |
 | [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | Medium | [1721.md](solutions/1721.md) | Two-Pointers | |
