@@ -329,7 +329,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | [1137.md](solutions/1137.md) | Recursion,Memoization,Dynamic-Programming | |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [1143.md](solutions/1143.md) | 动态规划-二维-中等 Dynamic-Programming | |
 | [1165. Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/) | Easy | [1165.md](solutions/1165.md) | | |
-| [1178. Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | Hard | [1178.md](solutions/1178.md) | Hash-Table,Bit-Manumulation | TBR |
+| [1178. Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | Hard | [1178.md](solutions/1178.md) | Hash-Table,Bit-Manipulation | TBR |
 | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | [1190.md](solutions/1190.md) | 栈-基础栈-中等 | |
 | [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | Easy | [1217.md](solutions/1217.md) | | |
 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium | [1249.md](solutions/1249.md) | 栈-基础栈-中等 | |
@@ -347,8 +347,8 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | Hard | [1463.md](solutions/1463.md) | Dynamic-Programming | |
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [1480.md](solutions/1480.md) | | |
 | [1567. Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | Medium | [1567.md](solutions/1567.md) | | |
-| [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | [1658.md](solutions/1658.md) | Prefix-Sum,Two-Pointers,Sliding-Window | |
 | [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | Medium | [1642.md](solutions/1642.md) | Greedy,Heap | TBR |
+| [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | [1658.md](solutions/1658.md) | Prefix-Sum,Two-Pointers,Sliding-Window | |
 | [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | Medium | [1669.md](solutions/1669.md) | 链表-双链表-中等 | |
 | [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | Medium | [1680.md](solutions/1680.md) | Bit-Manipulation | |
 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium | [1689.md](solutions/1689.md) | | |
