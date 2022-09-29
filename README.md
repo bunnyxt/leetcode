@@ -214,6 +214,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | [349.md](solutions/349.md) | 双指针与滑动窗口-简单 Two-Pointers | |
 | [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | Hard | [354.md](solutions/354.md) | 动态规划-一维-困难 Dynamic-Programming,Binary-Search | Pacience Sorting |
 | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | [368.md](solutions/368.md) | Dynamic-Programming | |
+| [370. Range Addition](https://leetcode.com/problems/range-addition/) | Medium | [370.md](solutions/370.md) | Prefix-Sum | |
 | [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Medium | [371.md](solutions/371.md) | 位运算-中等 Bit-Manipulation | |
 | [376. Wiggle Subsequence](https://leetcode.com/problems/remove-element/) | Medium | [376.md](solutions/376.md) | Dynamic-Programming | |
 | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium | [377.md](solutions/377.md) | Dynamic-Programming | |
