@@ -340,6 +340,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [1178. Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | Hard | [1178.md](solutions/1178.md) | Hash-Table,Bit-Manipulation | TBR |
 | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | [1190.md](solutions/1190.md) | 栈-基础栈-中等 | |
 | [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | Easy | [1217.md](solutions/1217.md) | | |
+| [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium | [1239.md](solutions/1239.md) | | |
 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium | [1249.md](solutions/1249.md) | 栈-基础栈-中等 | |
 | [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | Easy | [1260.md](solutions/1260.md) | 栈-基础栈-中等 | |
 | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | Medium | [1268.md](solutions/1268.md) | Binary-Search | |
