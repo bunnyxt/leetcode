@@ -294,6 +294,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | Medium | [740.md](solutions/740.md) | Dynamic-Programming | |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | [746.md](solutions/746.md) | 动态规划-一维-简单 Recursion,Memoization,Dynamic-Programming | |
 | [751. IP to CIDR](https://leetcode.com/problems/ip-to-cidr/) | Medium | [751.md](solutions/751.md) | Bit-Manipulation | |
+| [780. Reaching Points](https://leetcode.com/problems/reaching-points/) | Hard | [780.md](solutions/780.md) | | |
 | [781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/) | Medium | [781.md](solutions/781.md) | 贪心-中等 Greedy | |
 | [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | Medium | [790.md](solutions/790.md) | Dynamic-Programming | |
 | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | Medium | [797.md](solutions/797.md) | | |
