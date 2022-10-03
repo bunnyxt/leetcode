@@ -344,6 +344,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium | [1249.md](solutions/1249.md) | 栈-基础栈-中等 | |
 | [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | Easy | [1260.md](solutions/1260.md) | 栈-基础栈-中等 | |
 | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | Medium | [1268.md](solutions/1268.md) | Binary-Search | |
+| [1272. Remove Interval](https://leetcode.com/problems/remove-interval/) | Medium | [1272.md](solutions/1272.md) | | |
 | [1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | Medium | [1286.md](solutions/1286.md) | Backtracking | |
 | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | [1290.md](solutions/1290.md) | | |
 | [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/) | Medium | [1306.md](solutions/1306.md) | | |
