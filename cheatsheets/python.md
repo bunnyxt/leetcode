@@ -230,6 +230,35 @@
 
 从`[0.0, 1.0)`中随机返回一个浮点数：`random.random()`
 
-## 函数工具
+## 函数缓存
 
-// TODO lru_cache
+不限制大小的LRU cache，常用在记忆化递归函数上。
+
+```python
+from functools import lru_cache
+
+@lru_cache(None)
+def square(x):
+    return x ** 2
+```
+
+可以替代手动维护一个cache dict：
+
+```python
+memo = {}
+
+def square(x):
+    if x not in memo:
+        memo[x] = x ** 2
+    return memo[x]
+```
+
+还有一个稍微简便的写法：
+
+```python
+from functools import cache
+
+@cache
+def square(x):
+    return x ** 2
+```
