@@ -98,12 +98,7 @@
 - `==`：相同key对应的value均相同时返回真，`c[x] == d[x]`
 - `<=`：包含，`c[x] <= d[x]`
 
-// TODO sor
-
-// TODO filter via
-
-// TODO get
-
+字典`(key, val)`按键排序：`sorted(d.items())`；按值排序：`sorted(d.items(), key=lambda x: x[1])`
 
 ## 集合
 
