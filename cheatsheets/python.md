@@ -214,11 +214,20 @@
 
 ## 排序
 
-// TODO .sort()
+更多详细内容，参考[Sorting HOW TO](https://docs.python.org/3/howto/sorting.html)。
 
-// TODO reversed()
+两种方式，在原列表上排序：`l.sort()`，或者返回一个排好序的新列表：`sorted(l)`。
 
-// TODO key
+Python内置的排序使用[Timsort](https://en.wikipedia.org/wiki/Timsort)，时间复杂度`O(nlogn)`，空间复杂度`O(n)`，排序算法是稳定的。
+
+反转结果，添加参数`reverse=True`，即`l.sort(reverse=True)`或`sorted(l, reversed=True)`；或者再套一层`reversed(sorted(l))`，或者直接用切片`sorted(l)[::-1]`。
+
+再次介绍：元祖`t1 = (a1, b1, c1)`与`t2 = (a2, b2, c2)`比较大小，就是先比`a1 a2`之后`b1 b2`最后`c1 c2`。这个特性很有用，可以用来包装复杂的多条件排序。
+
+自定义排序方式：参数`key=func`，其中`func`是一个函数，接受一个参数，会应用到列表中的每个元素上，列表会对应用完该函数后的元素排序，例如
+- 通过tuple第二个元素排序：`key=lambda x: x[1]`
+- 通过对象的age字段排序：`key=lambda x: x.age`
+- 通过tuple第一个元素逆序、第三个元素顺序排序：`key=lambda x: (-x[0], x[2])`
 
 ## 随机数
 
