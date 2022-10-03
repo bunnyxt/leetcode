@@ -78,6 +78,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [54.md](solutions/54.md) | 矩阵-中等 | |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [55.md](solutions/55.md) | Greedy | |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [56.md](solutions/56.md) | | |
+| [57. Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | [57.md](solutions/57.md) | | |
 | [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | [59.md](solutions/59.md) | 矩阵-中等 | |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [61.md](solutions/61.md) | 链表-单链表-中等 | |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [62.md](solutions/62.md) | 动态规划-二维-中等 Dynamic-Programming | |
