@@ -112,7 +112,13 @@
 
 ## 双向队列
 
-// TODO deque
+`from collections import deque`
+
+除了右侧可以`O(1)`时间添加/删除元素外，左侧也可以`O(1)`时间添加/删除元素。
+
+队列左侧追加元素：`q.appendleft(x)`
+
+队列左侧移除元素：`q.popleft(x)`
 
 ## 堆
 
