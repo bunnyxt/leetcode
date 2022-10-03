@@ -16,6 +16,11 @@ bunnyxt的LeetCode题解，使用Python3编码
 
 备份：[LeetCode.xlsx](reference/LeetCode.xlsx)
 
+## 其他题解
+
+- [《代码随想录》LeetCode 刷题攻略](https://github.com/youngyangyang04/leetcode-master)
+- [LABULADONG 的算法网站](https://labuladong.github.io/algo/)
+
 # 实用技巧
 
 ## Python刷题实用技巧
