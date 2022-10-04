@@ -244,6 +244,8 @@ Python内置的排序使用[Timsort](https://en.wikipedia.org/wiki/Timsort)，�
 
 以上所有函数第三第四个参数`lo`和`hi`是可选的，表示在`l[lo:hi]`上寻找，默认值分别是`0`和`len(l)`。
 
+注意，虽然查找只需要`O(logn)`时间，但是`insort`需要`O(n)`时间。
+
 ## 随机数
 
 `import random`
