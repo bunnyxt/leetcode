@@ -276,6 +276,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | Medium | [609.md](solutions/609.md) | | |
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | [617.md](solutions/617.md) | 树-路径 \| 深度 \| 翻转-简单 | |
 | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium | [622.md](solutions/622.md) | 设计-中等 | |
+| [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | Medium | [623.md](solutions/623.md) | 设计-中等 | |
 | [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | Hard | [630.md](solutions/630.md) | Greedy,Heap | 堆辅助贪心 |
 | [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) | Medium | [636.md](solutions/636.md) | 栈-基础栈-中等 | |
 | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy | [637.md](solutions/637.md) | | |
