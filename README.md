@@ -346,6 +346,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [1124. Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | Medium | [1124.md](solutions/1124.md) | 栈-单调栈-中等 | 核心思路与单调栈无关 |
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | [1137.md](solutions/1137.md) | Recursion,Memoization,Dynamic-Programming | |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [1143.md](solutions/1143.md) | 动态规划-二维-中等 Dynamic-Programming | |
+| [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/) | Medium | [1146.md](solutions/1146.md) | Binary-Search | |
 | [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | Medium | [1155.md](solutions/1155.md) | Dynamic-Programming | |
 | [1165. Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/) | Easy | [1165.md](solutions/1165.md) | | |
 | [1178. Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | Hard | [1178.md](solutions/1178.md) | Hash-Table,Bit-Manipulation | TBR |
