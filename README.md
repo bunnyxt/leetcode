@@ -331,6 +331,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | [974.md](solutions/974.md) | Prefix-Sum | |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [977.md](solutions/977.md) | 双指针与滑动窗口 Two-Pointers | 从大到小构建 |
 | [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | Hard | [980.md](solutions/980.md) | Backtracking | |
+| [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium | [981.md](solutions/981.md) | Binary-Search | |
 | [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Medium | [986.md](solutions/986.md) | Two-Pointers | |
 | [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | Hard | [987.md](solutions/987.md) | | |
 | [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | Medium | [990.md](solutions/990.md) | Union-Find | |
