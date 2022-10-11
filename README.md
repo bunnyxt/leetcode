@@ -363,6 +363,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/) | Medium | [1306.md](solutions/1306.md) | | |
 | [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | Medium | [1314.md](solutions/1314.md) | | |
 | [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | Medium | [1318.md](solutions/1318.md) | 位运算-中等 | |
+| [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | Medium | [1328.md](solutions/1328.md) | | |
 | [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | Easy | [1332.md](solutions/1332.md) | | |
 | [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | Easy | [1413.md](solutions/1413.md) | | |
 | [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/remove-element/) | Medium | [1423.md](solutions/1423.md) | Sliding-Window | |
