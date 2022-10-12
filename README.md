@@ -331,6 +331,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | Easy | [961.md](solutions/961.md) | | |
 | [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | Medium | [967.md](solutions/967.md) | Backtracking | |
 | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | [974.md](solutions/974.md) | Prefix-Sum | |
+| [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | Easy | [976.md](solutions/976.md) | 数学-简单 Greedy | |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [977.md](solutions/977.md) | 双指针与滑动窗口 Two-Pointers | 从大到小构建 |
 | [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | Hard | [980.md](solutions/980.md) | Backtracking | |
 | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium | [981.md](solutions/981.md) | Binary-Search | |
