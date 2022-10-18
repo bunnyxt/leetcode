@@ -302,6 +302,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [722. Remove Comments](https://leetcode.com/problems/remove-comments/) | Medium | [722.md](solutions/722.md) | | |
 | [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium | [725.md](solutions/725.md) | 链表-单链表-中等 | |
 | [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | Hard | [726.md](solutions/726.md) | 栈-基础栈-困难 | |
+| [732. My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | Hard | [732.md](solutions/732.md) | Binary-Search | |
 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [739.md](solutions/739.md) | 栈-单调栈-中等 | |
 | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | Medium | [740.md](solutions/740.md) | Dynamic-Programming | |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | [746.md](solutions/746.md) | 动态规划-一维-简单 Recursion,Memoization,Dynamic-Programming | |
