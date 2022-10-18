@@ -166,7 +166,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | [162.md](solutions/162.md) | 二分查找-中等 | `[m, m + 1]`空间必在`[l, r]`中 |
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [167.md](solutions/167.md) | 二分查找-简单 Two-Pointers | |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [169.md](solutions/169.md) | | Boyer-Moore Voting Algorithm |
-| [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | [173.md](solutions/173.md) | 树-二叉搜索树-中等 | 栈 |
+| [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | [173.md](solutions/173.md) | 树-二叉搜索树-中等 设计-中等 | 栈 |
 | [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/) | Hard | [174.md](solutions/174.md) | Dynamic-Programming | |
 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | [190.md](solutions/190.md) | 位运算-简单 Bit-Manipulation,Divide-and-Conquer | |
 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | [191.md](solutions/191.md) | 位运算-简单 Bit-Manipulation | |
