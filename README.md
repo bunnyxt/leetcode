@@ -384,6 +384,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | Medium | [1695.md](solutions/1695.md) | Sliding-Window| |
 | [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | Medium | [1721.md](solutions/1721.md) | Two-Pointers | |
 | [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | Medium | [1770.md](solutions/1770.md) | Dynamic-Programming | |
+| [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | Easy | [1832.md](solutions/1832.md) | | |
 | [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | Easy | [1935.md](solutions/1935.md) | | |
 | [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | Medium | [1996.md](solutions/1996.md) | | |
 | [2007. Find Original Array From Doubled Array](https://leetcode.com/problems/remove-element/) | Medium | [2007.md](solutions/2007.md) | | |
