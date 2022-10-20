@@ -205,6 +205,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | [271.md](solutions/271.md) | | |
 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [279.md](solutions/279.md) | 图论-BFS-中等 动态规划-一维-中等 Dynamic-Programming | |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [283.md](solutions/283.md) | 双指针-简单 Two-Pointers | |
+| [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | Medium | [285.md](solutions/285.md) | Binary-Search-Tree | |
 | [289. Game of Life](https://leetcode.com/problems/game-of-life/) | Medium | [289.md](solutions/289.md) | | |
 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/submissions/) | Hard | [295.md](solutions/295.md) | 堆-困难 Heap | |
 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | [297.md](solutions/297.md) | 树-构造-困难 | |
