@@ -262,6 +262,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | [496.md](solutions/496.md) | 栈-单调栈-简单 | |
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium | [503.md](solutions/503.md) | 栈-基础栈-中等 | |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | [509.md](solutions/509.md) | Recursion,Memoization,Dynamic-Programming | |
+| [510. Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/) | Medium | [510.md](solutions/510.md) | Binary-Tree | |
 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Medium | [515.md](solutions/515.md) | 树-路径 \| 深度 \| 翻转-中等 | |
 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | [516.md](solutions/516.md) | Dynamic-Programming | |
 | [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/) | Medium | [518.md](solutions/518.md) | Dynamic-Programming | |
