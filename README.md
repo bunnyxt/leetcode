@@ -96,6 +96,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [72.md](solutions/72.md) | 动态规划-二维-困难 Dynamic-Programming | |
 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [73.md](solutions/73.md) | 矩阵-中等 | |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/)  | Medium | [75.md](solutions/75.md) | Two-Pointers | |
+| [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [76.md](solutions/76.md) | 双指针与滑动窗口-困难 Sliding-Window | |
 | [77. Combinations](https://leetcode.com/problems/combinations/) | Medium | [77.md](solutions/77.md) | 回溯-中等 | |
 | [78. Subsets](https://leetcode.com/problems/subsets/) | Medium | [78.md](solutions/78.md) | 回溯-中等 位运算-中等 Backtracking,Bit-Manipulation | |
 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | [79.md](solutions/79.md) | 回溯-中等 | |
