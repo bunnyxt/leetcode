@@ -288,6 +288,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) | Medium | [636.md](solutions/636.md) | 栈-基础栈-中等 | |
 | [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | [653.md](solutions/653.md) | Binary-Search-Tree | |
 | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy | [637.md](solutions/637.md) | | |
+| [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | [645.md](solutions/645.md) | | |
 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | Medium | [658.md](solutions/658.md) | Binary-Search | |
 | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | Medium | [662.md](solutions/662.md) | 树-路径 \| 深度 \| 翻转-中等 | |
 | [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | Hard | [668.md](solutions/668.md) | Binary-Search | TBR |
