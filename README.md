@@ -269,6 +269,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Medium | [515.md](solutions/515.md) | 树-路径 \| 深度 \| 翻转-中等 | |
 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | [516.md](solutions/516.md) | Dynamic-Programming | |
 | [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/) | Medium | [518.md](solutions/518.md) | Dynamic-Programming | |
+| [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | [523.md](solutions/523.md) | Prefix-Sum | |
 | [536. Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/) | Medium | [536.md](solutions/536.md) | Binary-Tree | |
 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | [540.md](solutions/540.md) | Binary-Search | |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [543.md](solutions/543.md) | 树-路径 \| 深度 \| 翻转-简单 | TBR |
