@@ -262,6 +262,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium | [450.md](solutions/450.md) | Binary-Search-Tree | |
 | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/) | Easy | [461.md](solutions/461.md) | 位运算-简单 Bit-Manipulation | |
 | [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | [462.md](solutions/462.md) | Math | 中位数 |
+| [464. Can I Win](https://leetcode.com/problems/can-i-win/) | Medium | [464.md](solutions/464.md) | 极大极小化-中等 Dynamic-Programming | |
 | [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/) | Hard | [472.md](solutions/472.md) | | |
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | [496.md](solutions/496.md) | 栈-单调栈-简单 | |
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium | [503.md](solutions/503.md) | 栈-基础栈-中等 | |
