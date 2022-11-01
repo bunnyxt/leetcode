@@ -396,6 +396,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | Medium | [1680.md](solutions/1680.md) | Bit-Manipulation | |
 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium | [1689.md](solutions/1689.md) | | |
 | [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | Medium | [1695.md](solutions/1695.md) | Sliding-Window| |
+| [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | Medium | [1706.md](solutions/1706.md) | | |
 | [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | Medium | [1721.md](solutions/1721.md) | Two-Pointers | |
 | [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | Medium | [1770.md](solutions/1770.md) | Dynamic-Programming | |
 | [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | Easy | [1832.md](solutions/1832.md) | | |
