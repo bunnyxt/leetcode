@@ -374,6 +374,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [1272. Remove Interval](https://leetcode.com/problems/remove-interval/) | Medium | [1272.md](solutions/1272.md) | | |
 | [1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | Medium | [1286.md](solutions/1286.md) | Backtracking | |
 | [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | [1290.md](solutions/1290.md) | | |
+| [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Hard | [1293.md](solutions/1293.md) | 图论-BFS-困难 Breadth-First-Search | |
 | [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/) | Medium | [1306.md](solutions/1306.md) | | |
 | [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | Medium | [1314.md](solutions/1314.md) | | |
 | [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | Medium | [1318.md](solutions/1318.md) | 位运算-中等 | |
