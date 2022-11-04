@@ -407,6 +407,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | Medium | [1996.md](solutions/1996.md) | | |
 | [2007. Find Original Array From Doubled Array](https://leetcode.com/problems/remove-element/) | Medium | [2007.md](solutions/2007.md) | | |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | [2095.md](solutions/2095.md) | Two-Pointers | |
+| [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Medium | [2131.md](solutions/2131.md) | | |
 | [2178. Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/) | Medium | [2178.md](solutions/2178.md) | Greedy | |
 
 *：按照`xx-yy-zz`格式标注的分类标准，出自[Leetcode-retag](reference/Leetcode-retag.md)这里；其他的以分号分隔Tag（例如`xx,yy,zz`）的分类则是自己的补充
