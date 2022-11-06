@@ -183,6 +183,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) |  Medium | [207.md](solutions/207.md) | 图论-拓扑排序-中等 Graph,DFS,Topological-Sort  | |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) |  Medium | [209.md](solutions/209.md) | Sliding-Window | |
 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) |  Medium | [210.md](solutions/210.md) | 图论-拓扑排序-中等 Graph,DFS,Topological-Sort  | |
+| [212. Word Search II](https://leetcode.com/problems/word-search-ii/) |  Hard | [212.md](solutions/212.md) | 字典树-困难 Trie | 结点带信息的前缀树 |
 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [213.md](solutions/213.md) | Dynamic-Programming | |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [215.md](solutions/215.md) | 堆-中等 Heap | |
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | [216.md](solutions/216.md) | 回溯-中等 | |
