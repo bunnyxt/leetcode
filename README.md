@@ -391,6 +391,8 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | Medium | [1457.md](solutions/1457.md) | Bit-Manipulation | Bit Mask |
 | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | Hard | [1463.md](solutions/1463.md) | Dynamic-Programming | |
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [1480.md](solutions/1480.md) | | |
+| [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) | Easy | [1544
+.md](solutions/1544.md) | | |
 | [1567. Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | Medium | [1567.md](solutions/1567.md) | | |
 | [1576. Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy | [1576.md](solutions/1576.md) | | |
 | [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | Medium | [1578.md](solutions/1578.md) | | |
