@@ -194,6 +194,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | [225.md](solutions/225.md) | 栈-基础栈-简单 | |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [226.md](solutions/226.md) | 树-路径 \| 深度 \| 翻转-简单 | |
 | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | [227.md](solutions/227.md) | 栈-基础栈-中等 | |
+| [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) | Easy | [228.md](solutions/228.md) | | |
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/remove-element/) | Medium | [230.md](solutions/230.md) | 树-二叉搜索树-中等 | |
 | [231. Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [231.md](solutions/231.md) | 位运算-简单 Bit-Manipulation | |
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [232.md](solutions/232.md) | 栈-基础栈-简单 | 倒置 |
