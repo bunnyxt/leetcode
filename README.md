@@ -233,6 +233,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [344.md](solutions/344.md) | 双指针与滑动窗口-简单 Two-Pointers | |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [347.md](solutions/347.md) | 堆-中等 Heap | |
 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | [349.md](solutions/349.md) | 双指针与滑动窗口-简单 Two-Pointers | |
+| [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [350.md](solutions/350.md) | | |
 | [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | Hard | [354.md](solutions/354.md) | 动态规划-一维-困难 Dynamic-Programming,Binary-Search | Pacience Sorting |
 | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | [368.md](solutions/368.md) | Dynamic-Programming | |
 | [370. Range Addition](https://leetcode.com/problems/range-addition/) | Medium | [370.md](solutions/370.md) | Prefix-Sum | |
