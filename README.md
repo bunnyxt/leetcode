@@ -336,6 +336,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [876.md](solutions/876.md) | 链表-单链表-简单 | |
 | [877. Stone Game](https://leetcode.com/problems/stone-game/) | Medium | [877.md](solutions/877.md) | 极大极小化-中等 | |
 | [889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium | [889.md](solutions/889.md) | 树-构造-中等 | 前序后序创建 |
+| [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | [901.md](solutions/901.md) | Monotonic-Stack | |
 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | [907.md](solutions/907.md) | 栈-单调栈-中等 | 单调栈详解 |
 | [910. Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) | Medium | [910.md](solutions/910.md) | Greedy | TBR |
 | [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | [918.md](solutions/918.md) | | Kadane's Algorithm |
