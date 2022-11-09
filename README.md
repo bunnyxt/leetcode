@@ -191,6 +191,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | Medium | [221.md](solutions/221.md) | 动态规划-二维-中等 Dynamic-Programming | |
 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | [222.md](solutions/222.md) | 树-路径 \| 深度 \| 翻转-中等 | 完全二叉树算高度 |
 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | [224.md](solutions/224.md) | 栈-基础栈-困难 | |
+| [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | [225.md](solutions/225.md) | 栈-基础栈-简单 | |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [226.md](solutions/226.md) | 树-路径 \| 深度 \| 翻转-简单 | |
 | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | [227.md](solutions/227.md) | 栈-基础栈-中等 | |
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/remove-element/) | Medium | [230.md](solutions/230.md) | 树-二叉搜索树-中等 | |
