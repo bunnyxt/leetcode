@@ -250,6 +250,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [392.md](solutions/392.md) | Two-Pointers,Dynamic-Programming | |
 | [393. UTF-8 Validation](https://leetcode.com/problems/remove-element/) | Medium | [393.md](solutions/393.md) | Bit-Manipulation | |
 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [394.md](solutions/394.md) | 栈-基础栈-中等 | |
+| [401. Binary Watch](https://leetcode.com/problems/binary-watch/) | Easy | [401.md](solutions/401.md) | | |
 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | [402.md](solutions/402.md) | 栈-单调栈-中等 | 剩余数字单调递增 |
 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | [404.md](solutions/404.md) | | |
 | [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | Easy | [405.md](solutions/405.md) | 位运算-简单 Bit-Manipulation | |
