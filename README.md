@@ -223,6 +223,7 @@ bunnyxt的LeetCode题解，使用Python3编码
 | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | Medium | [316.md](solutions/316.md) | 栈-单调栈-中等 | |
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [322.md](solutions/322.md) | 动态规划-一维-中等 Dynamic-Programming | |
 | [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium | [323.md](solutions/323.md) | Union-Find | |
+| [326. Power of Three](https://leetcode.com/problems/power-of-three/) | Easy | [326.md](solutions/326.md) | | 打表 |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [328.md](solutions/328.md) | 链表-单链表-中等 | |
 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | [334.md](solutions/334.md) | Dynamic-Programming | |
 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [338.md](solutions/338.md) | 位运算-简单 动态规划-一维-简单 Bit-Manipulation,Dynamic-Programming | |
