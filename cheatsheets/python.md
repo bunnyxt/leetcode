@@ -292,3 +292,11 @@ from functools import cache
 def square(x):
     return x ** 2
 ```
+
+## 非本地变量
+
+`nonlocal v` 关键字可以在内层访问最近的外层的变量`v`。
+
+`global v` 关键字可以在内层访问全局变量`v`。
+
+`self.v` 可以在类中访问类实例属性变量`v`。
